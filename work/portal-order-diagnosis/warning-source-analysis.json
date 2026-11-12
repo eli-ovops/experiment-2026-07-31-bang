@@ -1,0 +1,168 @@
+{
+  "stats": {
+    "客户名待确认": {
+      "页面不存在客户名字段": 29
+    },
+    "Stain 待确认": {
+      "页面出现 STAIN 字样": 95,
+      "页面无可用备注": 1
+    },
+    "Cover 待确认": {
+      "页面出现皮/布料关键词": 24
+    }
+  },
+  "examples": {
+    "客户名待确认 / 页面不存在客户名字段": [
+      {
+        "source": "Jul03,26.pdf",
+        "page": 10,
+        "order": "277741",
+        "item": "DOMUS DIN CHR",
+        "cover": "NO COVER",
+        "stain": "PEWTER",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 277741 Order Date: 03/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 03/07/2026 Supplier No: 502485 Franchise Number: 01-08456 PRESTFURN VIC PTY LIMITED TRADING AS Harvey Norman Furniture Preston Address: Phone: (03) 9269 3300 ABN: 69 950 410 601 ACN: 695 185 203 Ship To: Harvey Norman Furniture Preston 121 Bell Street Preston VIC 3072 Australia Order Note(s): ****************************************8 x domus dining chairs******* *********************************STAIN TO BE PEW"
+      },
+      {
+        "source": "Jul06,26-1.pdf",
+        "page": 6,
+        "order": "280273",
+        "item": "CIRCA BAR STOOL",
+        "cover": "BLACK",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 280273 Order Date: 06/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 06/07/2026 Supplier No: 502485 Franchise Number: 01-07356 Zowinda Pty Ltd TRADING AS Harvey Norman Furniture Dandenong Address: Phone: (03) 8791 3300 ABN: 96 265 195 395 ACN: 056 655 737 Ship To: Harvey Norman Furniture Dandenong 141-165 Frankston-Dandenong Rd Dandenong VIC 3175 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 CIRSTOBLK (CIRSTOBLK) 8.00"
+      },
+      {
+        "source": "Jul06,26-1.pdf",
+        "page": 20,
+        "order": "141976",
+        "item": "CIRCA DIN CHR",
+        "cover": "CHOCOLATE",
+        "stain": "CHARCOAL",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 141976 Order Date: 06/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 06/07/2026 Supplier No: 502485 Franchise Number: 01-09056 MILDFURN PTY LTD TRADING AS Harvey Norman Furniture Mildura Address: Phone: (03) 5051 2200 ABN: 30 537 809 509 ACN: 660 147 982 Ship To: Harvey Norman Furniture Mildura Cnr Fifteenth St &amp; Etiwanda Ave Mildura VIC 3500 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 CIRLEACHO (CIRLEACHO) 5.00"
+      },
+      {
+        "source": "Jul07,26.pdf",
+        "page": 5,
+        "order": "278460",
+        "item": "AMADI DIN CHR",
+        "cover": "MUSHROOM",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 278460 Order Date: 07/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 07/07/2026 Supplier No: 502485 Franchise Number: 01-02656 BUNDALLFURN QLD PTY LTD TRADING AS Harvey Norman Furniture Bundall Address: Phone: (07) 5584 3111 ABN: 85 649 326 328 ACN: 674 144 113 Ship To: Harvey Norman Furniture Bundall 29-45 Ashmore Rd Bundall QLD 4217 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 AMALEAMUSH (AMALEAMUSH) 4.00 274.55 10"
+      },
+      {
+        "source": "Jul07,26.pdf",
+        "page": 9,
+        "order": "410859",
+        "item": "AMADI DIN CHR",
+        "cover": "NO COVER",
+        "stain": "NATURAL",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 410859 Order Date: 07/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 07/07/2026 Supplier No: 502485 Franchise Number: 01-06756 BALGOWLAH FURNITURE PTY LIMITED TRADING AS Harvey Norman Furniture Balgowlah Address: Phone: (02) 9949 0100 ABN: 85 402 309 511 ACN: 680 079 403 Ship To: Harvey Norman Furniture Balgowlah 176-190 Condamine St Balgowlah NSW 2093 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVJAS120BOL5PC (FIV"
+      }
+    ],
+    "Stain 待确认 / 页面出现 STAIN 字样": [
+      {
+        "source": "Jul05,26-1.pdf",
+        "page": 3,
+        "order": "461525",
+        "item": "CHLOE DIN CHR",
+        "cover": "NO COVER",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 461525 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-02856 RITHFURN NO 2 TRUST TRADING AS Harvey Norman Furniture Penrith Address: Phone: (02) 4737 5111 ABN: 97 234 805 253 ACN: 635 506 839 Ship To: Harvey Norman Furniture Penrith Cnr Mulgoa Rd &amp; Wolseley St Penrith NSW 2750 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 DALTDUAL1500EXT (DALTDUAL15"
+      },
+      {
+        "source": "Jul05,26-1.pdf",
+        "page": 4,
+        "order": "224948",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 224948 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-20656 THOMASTOWN FURNITURE PTY LTD TRADING AS Harvey Norman Furniture Thomastown Address: Phone: (03) 9463 4777 ABN: 94 193 451 840 ACN: 618 636 650 Ship To: Harvey Norman Thomastown Warehouse 62B Keon Pde Thomastown VIC 3074 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVASHFORDLATTE (FIVASHFORDL"
+      },
+      {
+        "source": "Jul05,26-2.pdf",
+        "page": 2,
+        "order": "321576",
+        "item": "DOMUS DIN CHR",
+        "cover": "NO COVER",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order Change (VIC) PTY Order Number: 321576 Order Date: 05/07/2026 Order Type: CHANGE/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-12856 JOONDAFURN PTY LTD TRADING AS Harvey Norman Furniture Joondalup Address: 36 Clarke Crescent Joondalup WA 6027 Australia Phone: (08) 9301 3311 ABN: 91 663 751 532 ACN: 165 532 347 Ship To: Harvey Norman Joondalup Warehouse Cnr Packard &amp; Winton Rd Joondalup WA 6027 Australia Order Note(s): * Denotes changed lines LINE PRODUCT QTY PRICE EX GST TOT EX GST"
+      },
+      {
+        "source": "Jul05,26-2.pdf",
+        "page": 6,
+        "order": "177520",
+        "item": "CIRCA DIN CHR",
+        "cover": "NO COVER",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 177520 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-21556 FRANKSTONFURN PTY LTD TRADING AS Harvey Norman Furniture Frankston Address: Phone: (03) 8796 0600 ABN: 96 939 519 375 ACN: 676 885 117 Ship To: Harvey Norman Frankston Warehouse 1/144 - 146 Bangholme Rd Dandenong VIC 3175 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 CIRBINGSPROUT (CIRBINGSPRO"
+      },
+      {
+        "source": "Jul05,26-2.pdf",
+        "page": 9,
+        "order": "267878",
+        "item": "BOLTON DIN CHR",
+        "cover": "BLACK",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 267878 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-14456 MUNPARAFURN PTY LTD TRADING AS Harvey Norman Furniture Munno Para Address: Phone: (08) 8254 0700 ABN: 82 271 793 571 ACN: 680 058 459 Ship To: Harvey Norman Furniture Munno Para Lot 2005 Main North Rd Smithfield SA 5114 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVBOLTONBLK (FIVBOLTONBLK) "
+      }
+    ],
+    "Cover 待确认 / 页面出现皮/布料关键词": [
+      {
+        "source": "Jul05,26-1.pdf",
+        "page": 4,
+        "order": "224948",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 224948 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-20656 THOMASTOWN FURNITURE PTY LTD TRADING AS Harvey Norman Furniture Thomastown Address: Phone: (03) 9463 4777 ABN: 94 193 451 840 ACN: 618 636 650 Ship To: Harvey Norman Thomastown Warehouse 62B Keon Pde Thomastown VIC 3074 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVASHFORDLATTE (FIVASHFORDL"
+      },
+      {
+        "source": "Jul05,26-2.pdf",
+        "page": 10,
+        "order": "302521",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 302521 Order Date: 05/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 05/07/2026 Supplier No: 502485 Franchise Number: 01-08856 FURNLEY PTY LIMITED TRADING AS Harvey Norman Furniture Oxley Address: Phone: (07) 3332 1100 ABN: 40 632 399 043 ACN: 680 079 225 Ship To: Harvey Norman Oxley Warehouse 15 Westlink Place Richlands QLD 4077 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVASHFORDCHOC (FIVASHFORDCHOC) 6.00 209.00"
+      },
+      {
+        "source": "Jul09,26.pdf",
+        "page": 2,
+        "order": "288101",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 288101 Order Date: 09/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 09/07/2026 Supplier No: 502485 Franchise Number: 01-66156 Strasbon Pty Ltd TRADING AS Harvey Norman Furniture Fyshwick Address: Phone: (02) 6283 1244 ABN: 99 147 799 290 ACN: 052 317 085 Ship To: Harvey Norman Fyshwick Furniture and Bedding Warehouse 7 Tennant St Fyshwick ACT 2609 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 DALFIX180TBL (DALFIX180T"
+      },
+      {
+        "source": "Jul11,26.pdf",
+        "page": 3,
+        "order": "106832",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "NUTMEG",
+        "snippet": "FIVE STAR FURNITURE Purchase Order Change (VIC) PTY Order Number: 106832 Order Date: 06/07/2026 Order Type: CHANGE/DIRECT TO STORE Not Deliver Before: 06/07/2026 Supplier No: 502485 Franchise Number: 01-12356 GERALDTON FURNITURE PTY LTD TRADING AS Harvey Norman Furniture Geraldton Address: 38 Chapman Rd Geraldton WA 6530 Australia Phone: (08) 9964 0111 ABN: 36 763 641 554 ACN: 660 148 907 Ship To: Harvey Norman Furniture Geraldton 38 Chapman Rd Geraldton WA 6530 Australia Order Note(s): * Denotes changed lines LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT"
+      },
+      {
+        "source": "Jul11,26.pdf",
+        "page": 4,
+        "order": "288108",
+        "item": "ASHFORD DIN CHR",
+        "cover": "",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order (VIC) PTY Order Number: 288108 Order Date: 11/07/2026 Order Type: ORIGINAL/DIRECT TO STORE Not Deliver Before: 11/07/2026 Supplier No: 502485 Franchise Number: 01-66156 Strasbon Pty Ltd TRADING AS Harvey Norman Furniture Fyshwick Address: Phone: (02) 6283 1244 ABN: 99 147 799 290 ACN: 052 317 085 Ship To: Harvey Norman Fyshwick Furniture and Bedding Warehouse 7 Tennant St Fyshwick ACT 2609 Australia Order Note(s): LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) TOT INC (AUD) GST(AUD) GST(AUD) 11 FIVASHFORDMUSH (FIVASHFO"
+      }
+    ],
+    "Stain 待确认 / 页面无可用备注": [
+      {
+        "source": "Jul17,26.pdf",
+        "page": 3,
+        "order": "207273",
+        "item": "BOLTON DIN CHR",
+        "cover": "NO COVER",
+        "stain": "",
+        "snippet": "FIVE STAR FURNITURE Purchase Order Change (VIC) PTY Order Number: 207273 Order Date: 29/07/2020 Order Type: CANCELLATION/DIRECT TO STORE Not Deliver Before: 29/07/2020 Supplier No: 502485 Franchise Number: 01-02656 BUNDALLFURN QLD PTY LTD TRADING AS Harvey Norman Furniture Bundall Address: 29-45 Ashmore Rd Bundall QLD 4217 Australia Phone: (07) 5584 3111 ABN: 85 649 326 328 ACN: 674 144 113 Ship To: Harvey Norman Furniture Bundall 29-45 Ashmore Rd Bundall QLD 4217 Australia Order Note(s): * Denotes changed lines LINE PRODUCT QTY PRICE EX GST TOT EX GST (AUD) T"
+      }
+    ]
+  }
+}

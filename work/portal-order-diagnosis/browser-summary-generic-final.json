@@ -1,0 +1,4359 @@
+{
+  "pdf_count": 30,
+  "summary_cards": [
+    {
+      "label": "PDF 文件",
+      "value": "30",
+      "detail": "312 页"
+    },
+    {
+      "label": "主表产品",
+      "value": "207",
+      "detail": "每个产品一行"
+    },
+    {
+      "label": "待确认行",
+      "value": "34",
+      "detail": "共 35 个待确认字段"
+    },
+    {
+      "label": "取消页面",
+      "value": "2",
+      "detail": "CHANGE 且 QTY = 0"
+    }
+  ],
+  "row_count": 207,
+  "rows": [
+    {
+      "values": [
+        "438437",
+        "CIRCA DIN CHR",
+        "CHOCOLATE",
+        "ALMOND",
+        "6",
+        "SUDHIR THORAVE",
+        "Jul03,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "CHOCOLATE LEATHER WITH ALMOND STAIN FOR | LEGS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "420895",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "DALTON NATURAL",
+        "6",
+        "DON KULBABA",
+        "Jul03,26",
+        "BISCUIT",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "FABRIC TO BE BROOKLYN BISCUIT STAIN TO BE DALTON NATURAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "190825",
+        "CIRCA DIN CHR",
+        "BLACK",
+        "CHARCOAL",
+        "6",
+        "SHANE PATERSON",
+        "Jul03,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "PLEASE SUPPLY IN CHARCOAL STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167634",
+        "DOMUS DIN CHR",
+        "BLACK",
+        "NATURAL",
+        "4",
+        "BRETT DWYER",
+        "Jul03,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "LEATHER - BLACK LEG STAIN - NATURAL (DALTON | STAIN BOARD)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "143277",
+        "BOLTON DIN CHR",
+        "MUSHROOM",
+        "CWI MIST",
+        "8",
+        "STUART JOHNSON",
+        "Jul03,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 8 页 · 行 12",
+      "sourceNotes": "STAIN - CWI MIST",
+      "warnings": []
+    },
+    {
+      "values": [
+        "280201",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "NATURAL",
+        "8",
+        "RAY AZZOPARDI",
+        "Jul03,26",
+        "JAVA",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 9 页 · 行 12",
+      "sourceNotes": "- WARWICK BINGLE - JAVA LEG STAIN: NATURAL -",
+      "warnings": []
+    },
+    {
+      "values": [
+        "277741",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "PEWTER",
+        "8",
+        "?",
+        "Jul03,26",
+        "SILVER",
+        "ORIGINAL"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "8 x domus dining chairs | STAIN TO BE PEWTERSTAIN TO BE PEWTERS TAIN TO BE PEWTER FABRIC COLOUR BROOKLYN SILVERFABRIC COLOUR BROOKLYN SILVERFABRIC COLOUR BROOKLYN SIL VER",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "224565",
+        "CIRCA DIN CHR",
+        "NAVY",
+        "NATURAL",
+        "4",
+        "ANNIE ZON",
+        "Apr30,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul03,26.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "Natural Stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "147645",
+        "CIRCA BAR STOOL",
+        "WHITE",
+        "SAND DUNE",
+        "2",
+        "BRETT MARTIN",
+        "Jul04,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "LEATHER : WHITE TIMBER STAIN : SAND DUNE (HW) FIVE STAR HW SAMPLE BOARD",
+      "warnings": []
+    },
+    {
+      "values": [
+        "147644",
+        "CIRCA DIN CHR",
+        "CHOCOLATE",
+        "SEPIA",
+        "6",
+        "TALEEA WESTON",
+        "Jul04,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "LEATHER : CHOCOLATE STAIN : SEPIA (CWI SUPERIOR OAK)L EGS TO BE COLOUR MATCHED HOLD STAINING/DESPATCH OF OR DER UNTIL AFTER 10th AUGUST - PLEASE CONFIRM ) 4.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "168689",
+        "CIRCA DIN CHR",
+        "GREY",
+        "MOCHA",
+        "6",
+        "JOHN + LINDAFOX",
+        "Jul04,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 4 页 · 行 12",
+      "sourceNotes": "MOCHA LEG STAIN GREY LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "143428",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "DIRTY OAK",
+        "2",
+        "ROSS CUNNINGHAM",
+        "Jul04,26",
+        "AUBERGINE",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "sTAIN-DIRTY OAK..FABRIC WARWICK-BALMAIN AUBERGINE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "340845",
+        "DALTON DIN CHR",
+        "MUSHROOM",
+        "PEWTER",
+        "8",
+        "NADINE TOWNSEND",
+        "Jul04,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "STAIN: Pewter",
+      "warnings": []
+    },
+    {
+      "values": [
+        "198437",
+        "BOLTON DIN CHR",
+        "OLIVE GREEN",
+        "NUTMEG",
+        "6",
+        "LESLIE CABELO PINA",
+        "Jul04,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul04,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "timber colour to be nutmegcolour",
+      "warnings": []
+    },
+    {
+      "values": [
+        "461525",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "DALTON BOARD- LIGHT OAK",
+        "6",
+        "BRUCE MORTON",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-1.pdf",
+      "sourceDetail": "第 3 页 · 行 12",
+      "sourceNotes": "STAIN: DALTON BOARD- LIGHT OAK",
+      "warnings": []
+    },
+    {
+      "values": [
+        "224948",
+        "ASHFORD DIN CHR",
+        "LATTE",
+        "CEDAR",
+        "8",
+        "RANJITH WEERASINGHE",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-1.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "LEG TIMBER STAIN -- CEDAR",
+      "warnings": []
+    },
+    {
+      "values": [
+        "312381",
+        "BOLTON DIN CHR",
+        "CHAIRS IN GREY",
+        "FOR FRAME AND LEGS",
+        "8",
+        "PAUL BOLITHO",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-1.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "CHAIRS IN GREY LEATHER AND DIRTY OAK | STAIN FOR FRAME AND LEGS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "444803",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "PEWTER WARWICK BROOKLYN SILVER 25% OFF CLEARANCE LINE",
+        "6",
+        "MIN SONG",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-1.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "STAIN TO BE PEWTER WARWICK BROOKLYN SILVER 25% off clearance line",
+      "warnings": []
+    },
+    {
+      "values": [
+        "444802",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "NUTMEG",
+        "8",
+        "RICHARD MAIN",
+        "Jul05,26",
+        "SILVER",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "NUTMEG/BROOKLYN/SILVER 25% off clearance line :)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "321576",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "FABRIC TO BE BINGLE POOL",
+        "4",
+        "BARRY WYSE",
+        "Jul05,26",
+        "POOL",
+        "CHANGE"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "NATURE WOOD CLEAR STAIN FABRIC TO BE BINGLE POOL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "164740",
+        "BOLTON DIN CHR",
+        "NATURAL",
+        "NATURAL",
+        "8",
+        "KRISTEN CHETWYND",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "stain to be natural leather to be powder blue exactly as floor stock",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177520",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "CEDAR COLOURED",
+        "8",
+        "SHARON ROSS",
+        "Jul05,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "Cedar coloured legs, for all 8 chairs) 2.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177520",
+        "ASHFORD DIN CHR",
+        "NO COVER",
+        "NUTMEG",
+        "2",
+        "E-LOGICAL CONSULTANTS",
+        "Jul05,26",
+        "BODHI PEARL",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 6 页 · 行 12",
+      "sourceNotes": "Fabric- Bodhi Pearl Stain- Nutmeg",
+      "warnings": []
+    },
+    {
+      "values": [
+        "267878",
+        "BOLTON DIN CHR",
+        "BLACK",
+        "LEATHER WITH JAPAN CKACK",
+        "2",
+        "DIANE KENNEALY",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "BLACK LEATHER WITH JAPAN BLACK STAIN ON THE LEGS STAIN TOBE MATCHED WITH MASTER PACIFIC ADLEY DINING TABLE WHICH IS JAPANBLACK * | LEATHER WITH JAPAN CKACK STAIN ON LEGS FROM MASTER PACIFIC *",
+      "warnings": []
+    },
+    {
+      "values": [
+        "302521",
+        "ASHFORD DIN CHR",
+        "CHOCOLATE",
+        "CAPPICINO",
+        "6",
+        "NEALE FRAZER",
+        "Jul05,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "STAIN TO BE CAPPICINO",
+      "warnings": []
+    },
+    {
+      "values": [
+        "438966",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "S &",
+        "4",
+        "JOHN GREIG",
+        "Jul05,26",
+        "RIC",
+        "ORIGINAL"
+      ],
+      "source": "Jul05,26-2.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "PLEASE MAKE THOSE CHAIRS WITH OAK TIMBER | LEGS & COVERED IN \"WWW BINGLE TERRACOTTA\" FABRIC",
+      "warnings": []
+    },
+    {
+      "values": [
+        "164765",
+        "CIRCA BAR STOOL",
+        "OLIVE GREEN",
+        "DIRTY OAD",
+        "2",
+        "STEPHEN MANNING",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "dirty oad stain olive green leather",
+      "warnings": []
+    },
+    {
+      "values": [
+        "444803",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "PEWTER WARWICK BROOKLYN SILVER 25% OFF CLEARANCE LINE",
+        "6",
+        "MIN SONG",
+        "Jul05,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "STAIN TO BE PEWTER WARWICK BROOKLYN SILVER 25% off clearance line",
+      "warnings": []
+    },
+    {
+      "values": [
+        "444802",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "NUTMEG",
+        "8",
+        "RICHARD MAIN",
+        "Jul05,26",
+        "SILVER",
+        "CHANGE"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "NUTMEG/BROOKLYN/SILVER 25% off clearance line :)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "280273",
+        "CIRCA BAR STOOL",
+        "BLACK",
+        "BLACK XXXXXXXXXXXXXXXXXXXXXXX TO GO WI TH BONADIESI XXXXXXXXXXXXXXXXXXXXXXXXX",
+        "8",
+        "?",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "xxxxxxxxxxxxxxxxxxxxxx stain in black xxxxxxxxxxxxxxxxxxxxxxx to go wi th BONADIESI XXXXXXXXXXXXXXXXXXXXXXXXX",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "234057",
+        "BOLTON DIN CHR",
+        "LATTE",
+        "BLACKWOOD",
+        "4",
+        "JACKIE KALMAR",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "BLACKWOOD STAIN LATTE LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167936",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "'COTTAGE TEAK'",
+        "6",
+        "HANNAH & JAMIE JEWELL",
+        "Jul06,26",
+        "MACADAMIA'",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "TIMBER STAIN IS 'COTTAGE TEAK' FABRIC IS PROFILE 'WATSON MACADAMIA'",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177160",
+        "BOLTON BAR STOOL",
+        "MUSHROOM",
+        "SHIP OUT ASAP NATURAL",
+        "3",
+        "ANGELO FALCONE",
+        "Jul06,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "PLEASE SHIP OUT ASAP NATURAL STAIN PLEASE *",
+      "warnings": []
+    },
+    {
+      "values": [
+        "143481",
+        "CIRCA DIN CHR",
+        "NUTMEG",
+        "NUTMEG",
+        "7",
+        "RUSSELL CLARK",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "STAIN TO BE NUTMEG LEATHER TO BE BEIGE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "461552",
+        "BALMAIN DIN CHR",
+        "OLIVE GREEN",
+        "SAND DUNE",
+        "10",
+        "STEVEN POWELL",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 12 页 · 行 12",
+      "sourceNotes": "SAND DUNE STAIN) 2.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "461552",
+        "CIRCA BAR STOOL",
+        "OLIVE GREEN",
+        "SAND DUNE",
+        "2",
+        "STEVEN POWELL",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 12 页 · 行 13",
+      "sourceNotes": "SAND DUNE STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "214682",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        ", WARWICK BROOKLYN ONYX",
+        "6",
+        "VALERIE + BILL JENAWAY",
+        "Jul06,26",
+        "RIC",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 13 页 · 行 11",
+      "sourceNotes": "DIRTY OAK TIMBER STAIN, WARWICK BROOKLYN ONYX FABRIC",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177371",
+        "BOLTON DIN CHR",
+        "BLACK",
+        "NATUTAL",
+        "4",
+        "NARELLE TRAFFORD",
+        "Jun30,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 14 页 · 行 11",
+      "sourceNotes": "4x Dining Chair Five Star Furniture | Leather Colour - Black Leather Legs is natutal ) 8.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177371",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "OAK WARRICK",
+        "8",
+        "PETER BERGOC",
+        "Jun30,26",
+        "SPROUT",
+        "CHANGE"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 14 页 · 行 12",
+      "sourceNotes": "8x Dining Chair Five StarFurnitu re Stain - OAK Warrick Fabric Colour - Bingle Sprout",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278409",
+        "CIRCA BAR STOOL",
+        "MUSHROOM",
+        "CREATIVE WOODEN IDEAS REFER TO PO 4105315046 SUPPLIER I NVOICE: 159542",
+        "4",
+        "JHANELLE MEALING",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 15 页 · 行 11",
+      "sourceNotes": "SO HAZZE STAIN CREATIVE WOODEN IDEAS REFER TO PO 4105315046 SUPPLIER I NVOICE: 159542",
+      "warnings": []
+    },
+    {
+      "values": [
+        "219778",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "JAPAN BLACK",
+        "10",
+        "DONNA GOLOTTA",
+        "Jul06,26",
+        "MIST",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 16 页 · 行 11",
+      "sourceNotes": "Japan Black Stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "219775",
+        "CIRCA BAR STOOL",
+        "WHITE",
+        "OAK",
+        "2",
+        "NATRAJ CHENTALAPATI",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 17 页 · 行 11",
+      "sourceNotes": "Oak Stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "199489",
+        "BOLTON BAR STOOL",
+        "MUSHROOM",
+        "CAMEO",
+        "2",
+        "KYM CAMILLERI",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 19 页 · 行 11",
+      "sourceNotes": "pys stain cameo colour",
+      "warnings": []
+    },
+    {
+      "values": [
+        "141976",
+        "CIRCA DIN CHR",
+        "CHOCOLATE",
+        "CHARCOAL 7% FLOORSTOCK",
+        "5",
+        "?",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-1.pdf",
+      "sourceDetail": "第 20 页 · 行 11",
+      "sourceNotes": "Leg stain : charcoal 7% floorstock discount",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "348830",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "NATUREWOOD UMBER GREY",
+        "8",
+        "KELLY CARTER",
+        "Jul06,26",
+        "WALNUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "NATUREWOOD UMBER GREY BROOKLYN WALNUT | PLS DELIVER CHAIRS BOXED, NOT RA W",
+      "warnings": []
+    },
+    {
+      "values": [
+        "348828",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "NATURE WOOD - RUSTIC RUSTB AN",
+        "8",
+        "ANGELO TARANTO",
+        "Jul06,26",
+        "WALNUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "FABRIC: WARWICK BROOKLYN - WALNUT LEG | STAIN:NATURE WOOD - RUSTIC RUSTB AN PLS DELIVER AFTER 31 JULY) 2.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "348828",
+        "DOMUS BAR STOOL",
+        "NO COVER",
+        "NATURE WOOD - RUSTIC RUSTB AN",
+        "2",
+        "ANGELO TARANTO",
+        "Jul06,26",
+        "WALNUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 2 页 · 行 12",
+      "sourceNotes": "FABRIC: WARWICK BROOKLYN - WALNUT LEG | STAIN:NATURE WOOD - RUSTIC RUSTB AN PLS DELIVER AFTER 31 JULY",
+      "warnings": []
+    },
+    {
+      "values": [
+        "348827",
+        "CLUB DIN CHR",
+        "NAVY",
+        "PLS",
+        "8",
+        "STEVEN MOLONEY",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "NATUREWOOD UMBER GREY STAIN PLS DELIVER AFTER 31 JULY) 3.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "348827",
+        "CIRCA BAR STOOL",
+        "NAVY",
+        "PLS",
+        "3",
+        "STEVEN MOLONEY",
+        "Jul06,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 3 页 · 行 12",
+      "sourceNotes": "NATUREWOOD UMBER GREY STAIN PLS DELIVER AFTER 31 JULY",
+      "warnings": []
+    },
+    {
+      "values": [
+        "348829",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "PLS",
+        "6",
+        "JIA YI THUM",
+        "Jul06,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul06,26-2.pdf",
+      "sourceDetail": "第 4 页 · 行 12",
+      "sourceNotes": "PEARL STAIN PLS DELIVER AFTER 31 JULY) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "438729",
+        "FLORENCE DIN CHR",
+        "GREY",
+        "PEWTER",
+        "4",
+        "PRABHAKARA SADIPIRALA",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "pewter stain grey leather",
+      "warnings": []
+    },
+    {
+      "values": [
+        "177585",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "JINDALEE",
+        "6",
+        "JOANNE SELLMAN",
+        "Jul07,26",
+        "BODHI CINDER",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "Fabric- Bodhi Cinder Stain- to match with Jindalee (from Master pacifi c)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278460",
+        "AMADI DIN CHR",
+        "MUSHROOM",
+        "BUFF AS PER COLLATED ORDER INV 159542",
+        "4",
+        "?",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "CREATIVE WOODEN STAIN BUFF AS PER COLLATED ORDER INV 159542",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "107747",
+        "CIRCA BAR STOOL",
+        "NO COVER",
+        "SAND DUNE",
+        "4",
+        "GLEN PARTRIDGE",
+        "Jul07,26",
+        "BROOKLYN WALNUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "FABRIC - BROOKLYN WALNUT TIMBER - SAND DUNE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "280295",
+        "CIRCA BAR STOOL",
+        "IGE",
+        "CEDAR",
+        "3",
+        "KRISHNA KUMAR",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "LEATHER : BEIGE LEGS STAIN : CEDAR",
+      "warnings": []
+    },
+    {
+      "values": [
+        "410859",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "OF : NATURAL",
+        "1",
+        "?",
+        "Jul07,26",
+        "TERRACOTTA",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 9 页 · 行 12",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN ) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "410859",
+        "BALMAIN DIN CHR",
+        "MUSHROOM",
+        "OF : NATURAL",
+        "1",
+        "?",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 9 页 · 行 13",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN ) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "410859",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "FABRIC: BROOKLYN SILVER",
+        "1",
+        "?",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 9 页 · 行 14",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC: BROOKLYN SILVER ) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "410859",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "FABRIC: BINGLE",
+        "1",
+        "?",
+        "Jul07,26",
+        "BINGLE",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 9 页 · 行 15",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC: BINGLE",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "410859",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "FABRIC : BINGLE GULL",
+        "1",
+        "?",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 10 页 · 行 16",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC : BINGLE GULL ) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "410859",
+        "ZOLA DIN CHR",
+        "NO COVER",
+        "FABRIC : BINGLE PEARL",
+        "1",
+        "?",
+        "Jul07,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul07,26.pdf",
+      "sourceDetail": "第 10 页 · 行 17",
+      "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC : BINGLE PEARL ) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "233884",
+        "CLUB DIN CHR",
+        "NO COVER",
+        "NUTMEG",
+        "8",
+        "JOSEPH MUSCAT",
+        "Jul02,26",
+        "GULL",
+        "CHANGE"
+      ],
+      "source": "Jul08,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "fabric colour: bingle gull stain: nutmeg",
+      "warnings": []
+    },
+    {
+      "values": [
+        "379069",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "BLACK",
+        "6",
+        "ADRIAN RUSSELL",
+        "Jul08,26",
+        "DELIGHT EBONY",
+        "ORIGINAL"
+      ],
+      "source": "Jul08,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "PROFILE FABRIC DELIGHT EBONY LEG STAIN BLACK",
+      "warnings": []
+    },
+    {
+      "values": [
+        "40011",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "TO CREATIVE WOODEN IDEAS - MIST",
+        "10",
+        "MICK BARKER",
+        "Jul08,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul08,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "CADEN - IVORY FOR SEAT AND BACK FRANCES - IVORY FOR BACK OF BACKREST MATCHING STAIN TO CREATIVE WOODEN IDEAS - MIST STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "421135",
+        "BOLTON DIN CHR",
+        "CWI EBONY",
+        "CWI EBONY",
+        "6",
+        "?",
+        "Jul08,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul08,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCKPLEASE SEND URGENTLY",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "288101",
+        "ASHFORD DIN CHR",
+        "OLIVE GREEN",
+        "COTTAGETEAK",
+        "6",
+        "HANS SWAN",
+        "Jul09,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 2 页 · 行 12",
+      "sourceNotes": "Stain of chair leg = CottageTeak Leather colour = Olive Green",
+      "warnings": []
+    },
+    {
+      "values": [
+        "321754",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "CAMEO",
+        "6",
+        "?",
+        "Jul09,26",
+        "POOL",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "CAMEO PYS STAIN",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "292432",
+        "BOLTON DIN CHR",
+        "OLIVE GREEN",
+        "NATURAL",
+        "4",
+        "LORRAINE DUFFIN",
+        "Jul09,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 5 页 · 行 13",
+      "sourceNotes": "NATURAL STAIN OLIVE GREEN LEATHER) 2.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "292432",
+        "BOLTON BAR STOOL",
+        "OLIVE GREEN",
+        "NATERAL",
+        "2",
+        "LORRAINE DUFFIN",
+        "Jul09,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 5 页 · 行 14",
+      "sourceNotes": "LEGS NATERAL STAIN LEATHER OLIVE GREEN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "340973",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "ALMOND",
+        "8",
+        "?",
+        "Jul09,26",
+        "ZEPEL AKOYA",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "ATTN GABI: Re-order from PO 340969 that mysteriously got cancelled. CU STOM FABRIC: ZEPEL AKOYA FABRIC in CEMENT | Timber: Almond",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "365788",
+        "AMADI DIN CHR",
+        "WHITE",
+        "CREATIVE WOODEN IDEAS HAZE FOR",
+        "8",
+        "?",
+        "Jul09,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "CREATIVE WOODEN IDEAS HAZE COLOUR FOR STAIN",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "167812",
+        "CLUB DIN CHR",
+        "LATTE",
+        "NATURAL",
+        "1",
+        "HARVEY NORMAN",
+        "Jul09,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "LEATHER - LATTE PLEASE MATCH TO P/O 167308 LEG | STAIN - NATURAL (DALTON | STAIN BOARD)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "514231",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "JAPAN BLACK",
+        "6",
+        "ROSHNI SHAH",
+        "Jul09,26",
+        "GREEN CODE",
+        "ORIGINAL"
+      ],
+      "source": "Jul09,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "WAREICK NOVORA ONYX LEG STAIN JAPAN BLACK",
+      "warnings": []
+    },
+    {
+      "values": [
+        "288090",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "CHARCOAL AS OF 10/07/26 COMPANY:DELIVER TO: DANIEL WHITE, CANSTAY PTY LTD",
+        "1",
+        "Sayed Zulfikar",
+        "Jul08,26",
+        "26",
+        "CHANGE"
+      ],
+      "source": "Jul10,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "stain to be charcoal as of 10/07/26 COMPANY:Deliver to: Daniel White, CanStay Pty Ltd STAIN TO BE CHARCOAL AS OF 10/07/26",
+      "warnings": []
+    },
+    {
+      "values": [
+        "277997",
+        "DALTON DIN CHR",
+        "NATUREWOOD UMBER GREY CHOCOLATE",
+        "NATUREWOOD UMBER GREY CHOCOLATE",
+        "4",
+        "DARREN PAZIOTIS",
+        "Jul10,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul10,26.pdf",
+      "sourceDetail": "第 5 页 · 行 12",
+      "sourceNotes": "COLOUR TO BE IN NATUREWOOD UMBER GREY CHOCOLATELEATHER DISCOUNT AS PER FIVESTAR ) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "215810",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "GRAPHITE",
+        "4",
+        "HELEN & MAXMCCULLY",
+        "Jul10,26",
+        "STONE",
+        "ORIGINAL"
+      ],
+      "source": "Jul10,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "FABRIC: BROOKLYN STONE LEG STAIN: GRAPHITE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "421242",
+        "HUDSON DIN CHR",
+        "NAVY",
+        "NATURAL",
+        "6",
+        "PAUL CHAMPION",
+        "Jul10,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul10,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "LEATHER NAVY FRAME STAIN NATURAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "438901",
+        "CIRCA DIN CHR",
+        "BLACK",
+        "GRAPHITE",
+        "10",
+        "LEE SWIDERSKI",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "legs in graphite",
+      "warnings": []
+    },
+    {
+      "values": [
+        "12576",
+        "AMADI DIN CHR",
+        "CREATIVE WOODEN IDEAS ( SO HAZE) MUSHROOM",
+        "CREATIVE WOODEN IDEAS",
+        "8",
+        "HARMAN BRAR",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "LEG STAIN: CREATIVE WOODEN IDEAS ( SO HAZE) mushroom leather.",
+      "warnings": []
+    },
+    {
+      "values": [
+        "106832",
+        "ASHFORD DIN CHR",
+        "CHOCOLATE",
+        "NUTMEG",
+        "2",
+        "SARINA COOK",
+        "Jul06,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "Timber stain: Nutmeg",
+      "warnings": []
+    },
+    {
+      "values": [
+        "288108",
+        "ASHFORD DIN CHR",
+        "MUSHROOM",
+        "FROM NATUREWOOD FURNITURE",
+        "10",
+        "AMI IACUONE",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "please supply legs in light ash stain from naturewood furniture",
+      "warnings": []
+    },
+    {
+      "values": [
+        "421301",
+        "BOLTON DIN CHR",
+        "OLIVE GR EEN",
+        "CWI EBONY",
+        "6",
+        "?",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCK.PLEASE REFER TO PREVIOUS PO #421135.ORDER ED CHAIRS ON WRONG CODE.LEGS - STAIN MATCH CWI EBONYLEATHER - OLIVE GR EEN",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "461744",
+        "CLUB DIN CHR",
+        "BLACK",
+        "NUTMEG",
+        "2",
+        "SERGIO FERREIRA",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "STAIN: NUTMEG",
+      "warnings": []
+    },
+    {
+      "values": [
+        "379165",
+        "ZOLA DIN CHR",
+        "NO COVER",
+        "PLS SPROUT",
+        "8",
+        "ZAYA DAOUD",
+        "Jul11,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul11,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "with natural legs pls sprout fabric colour",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278023",
+        "BOLTON DIN CHR",
+        "LATTE",
+        "ED PEWTER",
+        "8",
+        "JODI GROLLO",
+        "Jul12,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul12,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "LEATHER LATTE STAINED PEWTER ) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "137657",
+        "CIRCA DIN CHR",
+        "GREY",
+        "JASPER RANGE - CAPPUCCINO CUSTOM ER ACKNOWLEDGE 20% APPLIED IN CASE CANCEL",
+        "8",
+        "HUONG NGO",
+        "Jul12,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul12,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "GREY LEATHER LEG STAIN : JASPER RANGE - CAPPUCCINO CUSTOM ER ACKNOWLEDGE 20% APPLIED IN CASE CANCEL INVOICE OR CHANGE COLOUR",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167195",
+        "BOLTON BAR STOOL",
+        "CHOCO",
+        "NATURAL",
+        "4",
+        "ANNE MICALLEF",
+        "Jul12,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul12,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "STAIN TO BE IN NATURAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "321851",
+        "BOLTON BAR STOOL",
+        "OLIVE GREEN",
+        "PEARL",
+        "2",
+        "DANIEL MILLSON",
+        "Jul11,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul12,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "stain: pearl",
+      "warnings": []
+    },
+    {
+      "values": [
+        "461779",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "CREATIVE WOODEN IDEAS: MOCHA FLOORSTOCK",
+        "8",
+        "?",
+        "Jul13,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "STAIN- CREATIVE WOODEN IDEAS: MOCHA FLOORSTOCK DISCOUNT AS PER KATIE G.",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "163975",
+        "CIRCA DIN CHR",
+        "SADDLE BROWN",
+        "CWI_SMOKE",
+        "2",
+        "KERRY HILL",
+        "Jul13,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "STAIN: CWI_SMOKE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "40080",
+        "DOMUS DIN CHR",
+        "LATTE",
+        "MIST",
+        "10",
+        "MICK BARKER",
+        "Jul13,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "TO MATCH THE CREATIVE WOODEN IDEAS STAIN - MIST",
+      "warnings": []
+    },
+    {
+      "values": [
+        "421301",
+        "BOLTON DIN CHR",
+        "OLIVE GR EEN",
+        "CWI EBONY",
+        "6",
+        "?",
+        "Jul11,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCK.PLEASE REFER TO PREVIOUS PO #421135.ORDER ED CHAIRS ON WRONG CODE.LEGS - STAIN MATCH CWI EBONYLEATHER - OLIVE GR EEN",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "40011",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "TO CREATIVE WOODEN IDEAS - MIST",
+        "0",
+        "MICK BARKER",
+        "Jul08,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "CADEN - IVORY FOR SEAT AND BACK FRANCES - IVORY FOR BACK OF BACKREST MATCHING STAIN TO CREATIVE WOODEN IDEAS - MIST STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "349112",
+        "DOMUS BAR STOOL",
+        "BLACK",
+        "NATUREWOOD UMBER GREY",
+        "1",
+        "ANNETTE PAGLIANITI",
+        "Jul13,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "NATUREWOOD UMBER GREY STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "152345",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "SAND DUNE",
+        "8",
+        "JODIE SCOFIELD",
+        "Jul13,26",
+        "ORANGE CODE",
+        "ORIGINAL"
+      ],
+      "source": "Jul13,26.pdf",
+      "sourceDetail": "第 12 页 · 行 12",
+      "sourceNotes": "WARWICK BINGLE MUSHROOM STAIN: SAND DUNE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "321990",
+        "ZOLA DIN CHR",
+        "CHOCOLATE",
+        "AGED RUSTABAN",
+        "6",
+        "?",
+        "Jul14,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul14,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "nature wood stain aged rustaban",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "189872",
+        "ZOLA DIN CHR",
+        "NO COVER",
+        "WALNUT",
+        "6",
+        "ROYCE BASSETT",
+        "Jul14,26",
+        "JAVA",
+        "ORIGINAL"
+      ],
+      "source": "Jul14,26.pdf",
+      "sourceDetail": "第 7 页 · 行 12",
+      "sourceNotes": "TIMBER STAIN WALNUT FABRICBINGLE JAVA PLEASE BOX FOR TRANSPORT",
+      "warnings": []
+    },
+    {
+      "values": [
+        "215424",
+        "ZOLA DIN CHR",
+        "WHITE",
+        "DUNE",
+        "6",
+        "?",
+        "Jul15,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul15,26.pdf",
+      "sourceDetail": "第 1 页 · 行 12",
+      "sourceNotes": "dune stain) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "151881",
+        "DALTON DIN CHR",
+        "BLACK",
+        "JASPER - CHARCOAL BLACK LETHER",
+        "2",
+        "DIMA EL-SUKKARI",
+        "Jul15,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul15,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "TIMBER STAIN JASPER - CHARCOAL BLACK LETHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "445188",
+        "BALMAIN DIN CHR",
+        "BLACK",
+        "DIRTY OAK",
+        "3",
+        "FORTE LIFT SERVICES",
+        "Jul15,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul15,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "BLACK LEATHER WITH DIRTY OAK STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167298",
+        "BOLTON BAR STOOL",
+        "POWDER BLU",
+        "",
+        "2",
+        "DAVID SPEET",
+        "Jul15,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul15,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "",
+      "warnings": [
+        "Stain 待确认"
+      ]
+    },
+    {
+      "values": [
+        "167298",
+        "DOMUS BAR STOOL",
+        "BLACK",
+        "",
+        "1",
+        "RACHEL KASANGULA",
+        "Jul15,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul15,26.pdf",
+      "sourceDetail": "第 7 页 · 行 12",
+      "sourceNotes": "customer accepts floor stock",
+      "warnings": [
+        "Stain 待确认"
+      ]
+    },
+    {
+      "values": [
+        "110714",
+        "CIRCA DIN CHR",
+        "CHOCOLATE",
+        "LIGHT OAK",
+        "8",
+        "GRIFFITH CUSTOM",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "WOOD STAIN LIGHT OAK",
+      "warnings": []
+    },
+    {
+      "values": [
+        "110717",
+        "AMADI DIN CHR",
+        "MUSHROOM",
+        "MUSHROOM",
+        "11",
+        "ANNA MALLAMACE",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "mushroom leather cwi haze timber stain) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "110717",
+        "AMADI DIN CHR",
+        "MUSHROOM",
+        "MUSHROOM",
+        "1",
+        "ANNA MALLAMACE",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 4 页 · 行 12",
+      "sourceNotes": "mushroom leather cwi haze timber stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "226727",
+        "CLUB DIN CHR",
+        "MUSHROOM",
+        "SMOKE",
+        "6",
+        "?",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "Creative Wooden Ideas Stain - Smoke",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "278178",
+        "CIRCA BAR STOOL",
+        "CHOCO",
+        "LEATHER CHOCOLATE- BLACK",
+        "1",
+        "?",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 8 页 · 行 12",
+      "sourceNotes": "LEATHER CHOCOLATE- BLACK LEGS 10% OFF FLOORSTOCK) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "278178",
+        "DOMUS BAR STOOL",
+        "OLIVE GREEN",
+        "BLACK",
+        "1",
+        "?",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 8 页 · 行 13",
+      "sourceNotes": "BLACK LEGS 10% OFF FLOORSTOCK) 1.00",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "199806",
+        "CIRCA BAR STOOL",
+        "MUSHROOM",
+        "S",
+        "3",
+        "WARREN DEETHTHERESA",
+        "Jul16,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul16,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "MUSHROOM LEATHER BLACK LEGS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "213563",
+        "CIRCA BAR STOOL",
+        "MUSHROOM",
+        "PEARL",
+        "4",
+        "DENIS HILAIRE",
+        "Jul17,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul17,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "LEATHER MUSHROOM STAIN TO BE PEARL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "207273",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "",
+        "0",
+        "SIMONE PARKER",
+        "Jul29,20",
+        "ORANGE",
+        "ORIGINAL"
+      ],
+      "source": "Jul17,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "",
+      "warnings": [
+        "Stain 待确认"
+      ]
+    },
+    {
+      "values": [
+        "255972",
+        "DOMUS DIN CHR",
+        "WHITE",
+        "",
+        "0",
+        "EFFIE FOX",
+        "Jul01,24",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul17,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "",
+      "warnings": [
+        "Stain 待确认"
+      ]
+    },
+    {
+      "values": [
+        "439227",
+        "CIRCA DIN CHR",
+        "BLACK",
+        "S",
+        "4",
+        "MICHAEL KESTER",
+        "Jul17,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul17,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "in mocha legs",
+      "warnings": []
+    },
+    {
+      "values": [
+        "322102",
+        "CIRCA DIN CHR",
+        "LATTE",
+        "DIRTY OAK",
+        "8",
+        "MARCUS SPIRONELLO",
+        "Jul18,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul18,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "stain dirty oak",
+      "warnings": []
+    },
+    {
+      "values": [
+        "458476",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "ZOLA",
+        "6",
+        "CAROLINE BESHAY",
+        "Apr28,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul18,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "PROFILE URBAN PARCHMENT STAIN: ZOLA STAIN BOARD- NATURAL ELM NEED DECE MBER 2026",
+      "warnings": []
+    },
+    {
+      "values": [
+        "258156",
+        "BOLTON BAR STOOL",
+        "NO COVER",
+        "NATURAL",
+        "4",
+        "MARY RANDO",
+        "Jul18,26",
+        "WARRICK BROOKLYN STONE",
+        "ORIGINAL"
+      ],
+      "source": "Jul18,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "Fabric is Warrick brooklyn stone colour Timber Legs is Natural",
+      "warnings": []
+    },
+    {
+      "values": [
+        "215946",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "BINGLE GULL",
+        "6",
+        "ROBERT & DINICHOLLS",
+        "Jul18,26",
+        "GULL",
+        "ORIGINAL"
+      ],
+      "source": "Jul18,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "ALMOND STAIN BINGLE GULL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439249",
+        "FLORENCE DIN CHR",
+        "CHOCOLATE",
+        "S",
+        "6",
+        "ALFRED SIBOMANA",
+        "Jul18,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul18,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "IN NATURAL COLOUR LEGS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "224550",
+        "CIRCA DIN CHR",
+        "PEARL",
+        "PEARL",
+        "6",
+        "TAHAWWUR RAJA",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 1 页 · 行 12",
+      "sourceNotes": "--------------- STAIN PEARL ---------------- LEATHER MUSHROOM -------- -------",
+      "warnings": []
+    },
+    {
+      "values": [
+        "12734",
+        "CHLOE DIN CHR",
+        "CHOCOLATE",
+        "DALTON RANGE MOCHA",
+        "4",
+        "PATRICK FLINAGAN",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "stain: dalton range Mocha",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167303",
+        "BOLTON DIN CHR",
+        "NAVY",
+        "NATURAL FINNISH",
+        "6",
+        "VANESSA GRIFFIN",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "PLEASE SUPPLY FRAME IN NATURAL FINNISH",
+      "warnings": []
+    },
+    {
+      "values": [
+        "267517",
+        "ASHFORD DIN CHR",
+        "BLACK",
+        "CONFRIMED PAINTED BLACK",
+        "6",
+        "CONRAD CONSTRUCTION CO",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "black leather , stain to be confrimed Painted Black (Semi Gloss If pos siable)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439308",
+        "CIRCA DIN CHR",
+        "BLACK",
+        "ALMOND",
+        "8",
+        "ELLY HOSKING",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "stain to be almond) 4.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439308",
+        "CIRCA BAR STOOL",
+        "BLACK",
+        "ALMOND",
+        "4",
+        "ELLY HOSKING",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 5 页 · 行 12",
+      "sourceNotes": "stain to be almond",
+      "warnings": []
+    },
+    {
+      "values": [
+        "515877",
+        "CIRCA BAR STOOL",
+        "SADDLE BROWN",
+        "",
+        "3",
+        "TED BRZOZOWSKI",
+        "Jul19,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul19,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "SADDLE BROWN LEATHER",
+      "warnings": [
+        "Stain 待确认"
+      ]
+    },
+    {
+      "values": [
+        "462068",
+        "HUDSON DIN CHR",
+        "GREY",
+        "GRAPHITE",
+        "14",
+        "JODIE KUIPERS",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 1 页 · 行 12",
+      "sourceNotes": "LEGS - GRAPHITE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "220249",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "CHARCOAL",
+        "6",
+        "FLAVIA VAZ",
+        "Jul20,26",
+        "POOL",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "FABRIC BINGLE POOL STAIN CHARCOAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "220252",
+        "HUDSON DIN CHR",
+        "DIRTY OAK RED",
+        "DIRTY OAK RED",
+        "8",
+        "BILL DEANS",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "stain to be dirty oak red leather upholstery",
+      "warnings": []
+    },
+    {
+      "values": [
+        "349401",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "*DELIVER AFTER 29 JULY TO STORE*",
+        "6",
+        "LOUISA PRESTON",
+        "Jul20,26",
+        "ECRU",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 6 页 · 行 12",
+      "sourceNotes": "SAND DUNE TIMBER STAIN *DELIVER AFTER 29 JULY TO STORE*",
+      "warnings": []
+    },
+    {
+      "values": [
+        "151972",
+        "CHLOE DIN CHR",
+        "NO COVER",
+        "WARWICK BINGLE JAVA",
+        "4",
+        "RICHARD BEILHARZ",
+        "Jul20,26",
+        "RIC",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "Cappuccino stain Warwick Bingle Java | fabric",
+      "warnings": []
+    },
+    {
+      "values": [
+        "78246",
+        "CIRCA DIN CHR",
+        "NAVY",
+        "SAND DUNE",
+        "6",
+        "ROSLYN EDWARDS",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "LEGS TO BE THE SAND DUNE CLOUR FROM THE DALTON RANGE. THEY WILL ALSOOR DER 2 MORE CHAIRS AT A LATER STAGE AND WE WILL HONOR THE SAME PRICE OF $440.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "143585",
+        "BALMAIN DIN CHR",
+        "BLACK",
+        "CHARCOAL",
+        "10",
+        "JANET BRODY",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "LEG COLOUR TO BE CHARCOAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439505",
+        "ASHFORD DIN CHR",
+        "MUSHROOM",
+        "\"SEPIA\"",
+        "8",
+        "ANDREW REALMUTO",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "PLEASE MAKE THE CHAIRS WITH \"SEPIA\" STAIN | TIMBER LEGS (FROM \"CREATIVE WOODEN IDEAS\") AND COVERED IN \"MUSHROOM\" | COLOUR LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "280606",
+        "CLUB DIN CHR",
+        "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "NATURAL",
+        "6",
+        "KURT SCHNOFL",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LEATHER | COLOUR IS POWDER BLUEAND | WOOD STAIN COLOUR IS NATURAL ( JASPER SAMPLE BOARD FRAME COLOUR ) XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "warnings": []
+    },
+    {
+      "values": [
+        "316878",
+        "DOMUS BAR STOOL",
+        "POWDER BLU",
+        "DALTON RANGE LIGHT OAK",
+        "2",
+        "LYNN FORREST",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 15 页 · 行 11",
+      "sourceNotes": "timber colour DALTON RANGE LIGHT OAK",
+      "warnings": []
+    },
+    {
+      "values": [
+        "224262",
+        "BOLTON DIN CHR",
+        "BLACK",
+        "CHARCOAL",
+        "6",
+        "JILL MITCHELL",
+        "Jul20,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul20,26.pdf",
+      "sourceDetail": "第 16 页 · 行 11",
+      "sourceNotes": "STAIN - CHARCOAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "515877",
+        "CIRCA BAR STOOL",
+        "SADDLE BROWN",
+        "NATURAL",
+        "3",
+        "TED BRZOZOWSKI",
+        "Jul19,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul21,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "SADDLE BROWN LEATHER stain to be natural stain to be natural",
+      "warnings": []
+    },
+    {
+      "values": [
+        "192709",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "DENIUM TIMBER",
+        "2",
+        "VICKI MAGANN",
+        "Jul21,26",
+        "BLUE BLACK CODE",
+        "ORIGINAL"
+      ],
+      "source": "Jul21,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "Warwick fabrick - Nixon colour _ Denium timber chair legs - P.S.Y colou r- aged smoke",
+      "warnings": []
+    },
+    {
+      "values": [
+        "198856",
+        "BOLTON DIN CHR",
+        "NAVY",
+        "NUTMEG",
+        "6",
+        "TANYA CHRISTIESON",
+        "Jul21,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul21,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "legs in stain nutmeg",
+      "warnings": []
+    },
+    {
+      "values": [
+        "292766",
+        "BOLTON BAR STOOL",
+        "LATTE",
+        "NATURAL",
+        "2",
+        "REGINA HENRY",
+        "Jul21,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul21,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "NATURAL STAIN ) 8.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "292766",
+        "BOLTON DIN CHR",
+        "LATTE",
+        "NATURAL",
+        "8",
+        "REGINA HENRY",
+        "Jul21,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul21,26.pdf",
+      "sourceDetail": "第 8 页 · 行 12",
+      "sourceNotes": "NATURAL STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "288253",
+        "ASHFORD DIN CHR",
+        "LATTE",
+        "CHESTNUT 1.00 FLOORSTOCKNO CHARGECT AND LTAS PERKATIE",
+        "8",
+        "?",
+        "Jul22,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul22,26.pdf",
+      "sourceDetail": "第 2 页 · 行 16",
+      "sourceNotes": "stain to be chestnut ) 1.00 floorstockno chargeCT and LTas perKatie please send new timbersample",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "288253",
+        "BOLTON DIN CHR",
+        "MUSHROOM",
+        "PEARL FLOORSTOCKNO CHARGECT AND LTAS PERKATIE",
+        "6",
+        "?",
+        "Jul22,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul22,26.pdf",
+      "sourceDetail": "第 3 页 · 行 20",
+      "sourceNotes": "stain to be pearl floorstockno chargeCT and LTas perKatie please send new timbersample",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "234454",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "FIVE STAR NATURAL",
+        "6",
+        "JOANNE WYNN",
+        "Jul22,26",
+        "BROOKLYN BISCUIT",
+        "ORIGINAL"
+      ],
+      "source": "Jul22,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "Fabric: Brooklyn Biscuit Leg Stain: Five Star Natural",
+      "warnings": []
+    },
+    {
+      "values": [
+        "462112",
+        "BALMAIN DIN CHR",
+        "MUSHROOM",
+        "NATUREWOOD UMBER GREY",
+        "5",
+        "SAMANTHA OGNENOVSKA",
+        "Jul22,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul22,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "STAIN COLOUR IS NATUREWOOD UMBER GREY | STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "234422",
+        "CLUB DIN CHR",
+        "NO COVER",
+        "PETWER STAIN PETWER STAIN PETWER STAIN PETWER STAIN PETWER",
+        "6",
+        "CAITLIN ELLIS",
+        "Jul23,26",
+        "GULL",
+        "ORIGINAL"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "PETWER STAIN PETWER STAIN PETWER STAIN PETWER STAIN PETWER STAIN PETWER STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "137884",
+        "HUDSON DIN CHR",
+        "CHOCOLATE",
+        "CAPPUCCINO",
+        "8",
+        "SON LAM",
+        "Jul23,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "CAPPUCCINO STAIN PLEASE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "137884",
+        "CIRCA DIN CHR",
+        "IGE",
+        "CAPPUCCINO",
+        "6",
+        "JASSYWARE PTY LTD",
+        "Jul23,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 4 页 · 行 12",
+      "sourceNotes": "CAPPUCCINO COLOUR PLEASE CAPPUCCINO STAIN PLEASE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "84939",
+        "CIRCA DIN CHR",
+        "WHITE",
+        "CLEAR",
+        "4",
+        "MICHELLE BISSAKER",
+        "Jul23,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "clear stain please",
+      "warnings": []
+    },
+    {
+      "values": [
+        "349549",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "PEWTER",
+        "6",
+        "STEPHEN RANCOUR",
+        "Jul23,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 7 页 · 行 12",
+      "sourceNotes": "PEWTER STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "437374",
+        "BOLTON DIN CHR",
+        "MUSHROOM",
+        "MUSHROOM",
+        "2",
+        "ANKA VULAN",
+        "Jul23,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "MUSHROOM LEATHER NUTMEG STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "152077",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "DALTON RANGE",
+        "6",
+        "CHRISTINA KIM",
+        "Jul22,26",
+        "PEARL",
+        "CHANGE"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "MOCHA TIMBER STAIN IN DALTON RANGE",
+      "warnings": []
+    },
+    {
+      "values": [
+        "167298",
+        "BOLTON BAR STOOL",
+        "POWDER BLU",
+        "NATURAL",
+        "2",
+        "DAVID SPEET",
+        "Jul15,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "STAIN TO BE NATURAL) 0.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278365",
+        "BOLTON DIN CHR",
+        "BL ACK",
+        "BL ACK",
+        "6",
+        "JAYE MOREY",
+        "Jul23,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul23,26.pdf",
+      "sourceDetail": "第 14 页 · 行 12",
+      "sourceNotes": "JINDERLEE | STAIN/BL ACK LEATHER DELIVERY TO US BY 29TH AS PER CAREN FROM FIVESTAR",
+      "warnings": []
+    },
+    {
+      "values": [
+        "245405",
+        "CIRCA BAR STOOL",
+        "POWDER BLU",
+        "CLEAR",
+        "2",
+        "SCOTT ABRAHAM",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "Clear Stain for legs",
+      "warnings": []
+    },
+    {
+      "values": [
+        "245400",
+        "BOLTON DIN CHR",
+        "POWDER BLUE",
+        "CLEAR",
+        "2",
+        "SCOTT ABRAHAM",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "clear stain legs",
+      "warnings": []
+    },
+    {
+      "values": [
+        "171312",
+        "CIRCA BAR STOOL",
+        "NAVY",
+        "ED IN CREATIVE WOODEN IDEAS LIGHT OAK",
+        "4",
+        "MARYANNE BENNETT",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "Navy leather legs to be stained in CREATIVE WOODEN IDEAS light oak (OLD STAIN SAMPLES)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "171311",
+        "CIRCA DIN CHR",
+        "NAVY",
+        "ED IN CREATIVE WOODEN IDEAS LIGHT OAK",
+        "8",
+        "MARYANNE BENNETT",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "Navy leather legs to be stained in CREATIVE WOODEN IDEAS light oak (OLD STAIN SAMPLES)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "226942",
+        "DALTON DIN CHR",
+        "NO COVER",
+        "WARWICK MANISA MARBLE PEWTER",
+        "6",
+        "MELISSA THOM",
+        "Jul24,26",
+        "YELLOW CODE",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 5 页 · 行 12",
+      "sourceNotes": "WARWICK MANISA MARBLE PEWTER STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "292924",
+        "BOLTON DIN CHR",
+        "OLIVE GREEN",
+        "NATUREWOOD CINAMIN",
+        "4",
+        "PELICITY NAIR",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "NATUREWOOD CINAMIN STAIN) 2.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "292924",
+        "BOLTON BAR STOOL",
+        "OLIVE GREEN",
+        "NATUREWOOD CINAMIN",
+        "2",
+        "PELICITY NAIR",
+        "Jul24,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul24,26.pdf",
+      "sourceDetail": "第 9 页 · 行 12",
+      "sourceNotes": "NATUREWOOD CINAMIN STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "276621",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "CLEAR",
+        "1",
+        "CLINT TRIAT",
+        "Jul25,26",
+        "MIST - CLEAR STAIN LEG",
+        "ORIGINAL"
+      ],
+      "source": "Jul25,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "IN BINGLE MIST - CLEAR STAIN LEG",
+      "warnings": []
+    },
+    {
+      "values": [
+        "199861",
+        "CLUB DIN CHR",
+        "CLUB DIN",
+        "\"PEARL MIST\"",
+        "4",
+        "MONTY SHIPMAN",
+        "Jul25,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul25,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "Club Din Chair Leather \"Latte\" Naturewood Stain \"Pearl Mist\"",
+      "warnings": []
+    },
+    {
+      "values": [
+        "45538",
+        "DOMUS BAR STOOL",
+        "LATTE",
+        "NUTMEG",
+        "3",
+        "SANDY RODD",
+        "Jul25,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul25,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "stain legs to be nutmeg",
+      "warnings": []
+    },
+    {
+      "values": [
+        "124279",
+        "BOLTON DIN CHR",
+        "WHITE",
+        "NUTMEG",
+        "8",
+        "SHARON BLAKISTON",
+        "Jul25,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul25,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "In Nutmeg Stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "211814",
+        "DOMUS BAR STOOL",
+        "BLACK",
+        "DIRTY OAK",
+        "3",
+        "JOSEPH MASTROPASQUA",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "DIRTY OAK BLACK | LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "514993",
+        "ASHFORD DIN CHR",
+        "BLACK",
+        "CEDAR",
+        "1",
+        "MR VIZAS",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "attn: urgent order pls send to us asap timber colour to be cedar",
+      "warnings": []
+    },
+    {
+      "values": [
+        "170704",
+        "HUDSON DIN CHR",
+        "BLACK",
+        "MOCHA",
+        "8",
+        "HEATHER MCELROY",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "MOCHA COLOUR STAIN BLACK COLOUR LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "134380",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "CAPPACINO",
+        "6",
+        "DANIEL KELLY",
+        "Jul26,26",
+        "JAVA",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 4 页 · 行 13",
+      "sourceNotes": "cappacino legs please",
+      "warnings": []
+    },
+    {
+      "values": [
+        "108063",
+        "CIRCA DIN CHR",
+        "OLIVE GREEN",
+        "ALMOND THANKS",
+        "4",
+        "SATISH GADIRAJU",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "timber stain Almond thanks",
+      "warnings": []
+    },
+    {
+      "values": [
+        "445534",
+        "BALMAIN DIN CHR",
+        "BLACK",
+        "CEDAR",
+        "6",
+        "KARIN FOGARTY",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "stain to be cedar",
+      "warnings": []
+    },
+    {
+      "values": [
+        "268584",
+        "FLORENCE DIN CHR",
+        "CHOCOLATE",
+        "YES IT IS",
+        "8",
+        "LYTHGOE CARPENTRY",
+        "Jul26,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 7 页 · 行 11",
+      "sourceNotes": "PLEASE SUPPLY THE CHAIRS LEGS TO MATCH HERRINGBONE DIN TBL REC SMOKE STAIN YES IT IS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "152156",
+        "CLUB DIN CHR",
+        "BLACK",
+        "CEDAR.",
+        "6",
+        "FILIA KASIOTIS",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "============================ LEGS STAIN IS CEDAR.===================== = URGENT,PLEASE SEND ASAP. =============================",
+      "warnings": []
+    },
+    {
+      "values": [
+        "12842",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "PEARL",
+        "1",
+        "BARRY ELFVERSON",
+        "Jul26,26",
+        "BISCUIT",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "Fabric - Brooklyn Biscuit Legs stain - Pearl",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439757",
+        "DALTON DIN CHR",
+        "MUSHROOM",
+        "SAND DUNE",
+        "8",
+        "PETER LANGRIDGE",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 11 页 · 行 12",
+      "sourceNotes": "legs in sand dune ) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "216091",
+        "AMADI DIN CHR",
+        "WHITE",
+        "NATURAL ELM",
+        "6",
+        "KIM AND DAVID DAHLER",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "LEG STAIN: NATURAL ELM",
+      "warnings": []
+    },
+    {
+      "values": [
+        "216093",
+        "AMADI DIN CHR",
+        "WHITE",
+        "SO SEPIA",
+        "8",
+        "DEBBIE MOOREREAL",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 13 页 · 行 11",
+      "sourceNotes": "timber stain- SO SEPIA",
+      "warnings": []
+    },
+    {
+      "values": [
+        "226983",
+        "BOLTON BAR STOOL",
+        "BLACK",
+        "JAPAN BLACK",
+        "2",
+        "COLIN BROOKS",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 14 页 · 行 11",
+      "sourceNotes": "JAPAN BLACK STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "285683",
+        "BOLTON DIN CHR",
+        "POWDER BLUE",
+        "NATURAL",
+        "6",
+        "ANGELA GULLOTTO",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 15 页 · 行 11",
+      "sourceNotes": "NATURAL STAIN) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "288297",
+        "CHLOE DIN CHR",
+        "AND BLACK",
+        "NATURAL",
+        "8",
+        "?",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 16 页 · 行 11",
+      "sourceNotes": "NATURAL STAIN AND BLACK LEATHER SEAT. PLEASE SEND ALL PRODUCTS TOGETHE R AS PER KATIE G. SPECIAL ORDER CHAIRS",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "142399",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "BINGLE PEARL",
+        "6",
+        "JENNY MATTHEWS",
+        "Jul26,26",
+        "CLEAR",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 19 页 · 行 11",
+      "sourceNotes": "Bingle pearl fabric Clear stain for legs",
+      "warnings": []
+    },
+    {
+      "values": [
+        "431631",
+        "CIRCA DIN CHR",
+        "MUSHROOM",
+        "DALTON RANGE",
+        "6",
+        "JOE GOMES",
+        "Jul26,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul26,26.pdf",
+      "sourceDetail": "第 20 页 · 行 11",
+      "sourceNotes": "Mushroom Leather Natural Timber stain - dalton range",
+      "warnings": []
+    },
+    {
+      "values": [
+        "422026",
+        "DOMUS DIN CHR",
+        "LATTE",
+        "MIST CREATIVE WOODEN IDEAS",
+        "8",
+        "ANDREW POTTER",
+        "Jul27,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "latte leather stain mist creative wooden ideas",
+      "warnings": []
+    },
+    {
+      "values": [
+        "168312",
+        "CLUB DIN CHR",
+        "NO COVER",
+        "CHARCOAL",
+        "24",
+        "LORENA REOCH",
+        "Jul27,26",
+        "SNOW",
+        "CHANGE"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 3 页 · 行 11",
+      "sourceNotes": "CHARLES PARSON FABRIC - VENUS COLOUR - SNOW | LEG STAIN - CHARCOAL(JASPER STAIN BOARD) SUPPLIER GIVING 2.5% DISCOUNT FOR THE BULK ORDER.",
+      "warnings": []
+    },
+    {
+      "values": [
+        "168336",
+        "BOLTON DIN CHR",
+        "MUSHROOM",
+        "PEARL.",
+        "2",
+        "CAROL HOGG",
+        "Jul27,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "LEG STAIN PEARL.",
+      "warnings": []
+    },
+    {
+      "values": [
+        "285705",
+        "ASHFORD DIN CHR",
+        "NO COVER",
+        "CONWAY MINK",
+        "8",
+        "JO LEDLIE",
+        "Jul27,26",
+        "OAK",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 8 页 · 行 11",
+      "sourceNotes": "CONWAY MINK FAB WARWICK FIVE STAR OAK STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "171342",
+        "CIRCA DIN CHR",
+        "BLACK",
+        "CWI LIGHT OAK",
+        "6",
+        "JACQI JOHNSON",
+        "Jul27,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "CWI LIGHT OAK STAIN ON LEGS",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278450",
+        "ZOLA DIN CHR",
+        "NO COVER",
+        "ACORN",
+        "8",
+        "JONATHAN STILL",
+        "Jul27,26",
+        "PINE",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 10 页 · 行 11",
+      "sourceNotes": "BINGLE PINE STAIN TO BE ACORN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "284279",
+        "ASHFORD DIN CHR",
+        "BLACK",
+        "BLACK *",
+        "6",
+        "RAYMOND BARBER",
+        "Jul27,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul27,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "BLACK LEATHER STAIN TO BE BLACK *",
+      "warnings": []
+    },
+    {
+      "values": [
+        "152243",
+        "ZOLA DIN CHR",
+        "LATTE",
+        "",
+        "6",
+        "?",
+        "Jul28,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "floorstock order",
+      "warnings": [
+        "Stain 待确认",
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "355611",
+        "DOMUS BAR STOOL",
+        "BLACK",
+        "CHARCOAL",
+        "3",
+        "BASSEM WAHHAB",
+        "Jul28,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 2 页 · 行 11",
+      "sourceNotes": "BLACK LEATHER STAIN: CHARCOAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "516297",
+        "DOMUS DIN CHR",
+        "GREY",
+        "CWI MIST STAIN TASI OAK STANS CWI MST",
+        "8",
+        "?",
+        "Jul28,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 5 页 · 行 11",
+      "sourceNotes": "STAIN CWI MIST STAIN TASI OAK STANS CWI MST",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "516295",
+        "ASHFORD DIN CHR",
+        "NO COVER",
+        "CWI HAZE",
+        "5",
+        "?",
+        "Jul28,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 6 页 · 行 11",
+      "sourceNotes": "STAIN TO BE CWI HAZE",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "167679",
+        "DOMUS DIN CHR",
+        "NO COVER",
+        "CEDAR",
+        "4",
+        "ELAINE HESELTINE",
+        "Jul28,26",
+        "WALNT",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 7 页 · 行 12",
+      "sourceNotes": "cedar stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "278474",
+        "AMADI DIN CHR",
+        "NO COVER",
+        "CHARCOAL",
+        "8",
+        "EVAN MALAPANIAS",
+        "Jul28,26",
+        "ROYAL",
+        "ORIGINAL"
+      ],
+      "source": "Jul28,26.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "fabric warwick bingle royal stain charcoal (as black as possible)",
+      "warnings": []
+    },
+    {
+      "values": [
+        "439757",
+        "DALTON DIN CHR",
+        "MUSHROOM",
+        "SAND DUNE",
+        "8",
+        "PETER LANGRIDGE",
+        "Jul26,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 3 页 · 行 12",
+      "sourceNotes": "legs in sand dune ) 1.00",
+      "warnings": []
+    },
+    {
+      "values": [
+        "445654",
+        "CHLOE BAR STOOL",
+        "NO COVER",
+        "BINGLE/SPROUT 25% FF CLEARANCE BAR STOOL",
+        "2",
+        "RENZO SGARBOSSA",
+        "Jul29,26",
+        "SPROUT",
+        "ORIGINAL"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 4 页 · 行 11",
+      "sourceNotes": "sand/dune stain bingle/sprout 25% ff clearance bar stool",
+      "warnings": []
+    },
+    {
+      "values": [
+        "436249",
+        "ASHFORD DIN CHR",
+        "BLACK",
+        "SAND DUNE",
+        "10",
+        "CHRISTINA RUGGIERO",
+        "Jun30,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 5 页 · 行 12",
+      "sourceNotes": "SAND DUNE STAIN BLACK LEATHER have emailed customer. please continue with order - will advise if they decide otherwise.",
+      "warnings": []
+    },
+    {
+      "values": [
+        "349549",
+        "BOLTON DIN CHR",
+        "NO COVER",
+        "THANK YOU",
+        "6",
+        "STEPHEN RANCOUR",
+        "Jul23,26",
+        "SPROUT",
+        "CHANGE"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 8 页 · 行 12",
+      "sourceNotes": "PEWTER STAIN THANK YOU",
+      "warnings": []
+    },
+    {
+      "values": [
+        "234598",
+        "DALTON DIN CHR",
+        "SADDLE BROWN",
+        "MASTER PACIFIC MARRI",
+        "4",
+        "LOREN BROWN",
+        "Jul29,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 9 页 · 行 11",
+      "sourceNotes": "MASTER PACIFIC MARRI STAIN LEGS SADDLE BROWN LEATHER",
+      "warnings": []
+    },
+    {
+      "values": [
+        "152243",
+        "ZOLA DIN CHR",
+        "LATTE",
+        "1.00 FLOORSTOCK ORDER",
+        "6",
+        "?",
+        "Jul28,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "NATURAL TIMBER STAIN -------------) 1.00 floorstock order",
+      "warnings": [
+        "客户名待确认"
+      ]
+    },
+    {
+      "values": [
+        "347791",
+        "CIRCA DIN CHR",
+        "NO COVER",
+        "DALTON RANGE LIGHT OAK ####",
+        "6",
+        "ANGELA MACLEAN",
+        "Jun15,26",
+        "PE ARL #### THANKS FOR THE HEADS UP",
+        "CHANGE"
+      ],
+      "source": "Jul29,26.pdf",
+      "sourceDetail": "第 15 页 · 行 14",
+      "sourceNotes": "stain to be:dalton range light oak #### fabric to be:warwick bingle pe arl #### THANKS FOR THE HEADS UP",
+      "warnings": []
+    },
+    {
+      "values": [
+        "204511",
+        "CIRCA DIN CHR",
+        "SADDLE BROWN",
+        "OAK",
+        "6",
+        "VICKI ANDERSON",
+        "Jul30,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul30,26.pdf",
+      "sourceDetail": "第 1 页 · 行 11",
+      "sourceNotes": "oak stain",
+      "warnings": []
+    },
+    {
+      "values": [
+        "440050",
+        "DALTON DIN CHR",
+        "CHOCOLATE",
+        "DONE IN NATURAL",
+        "8",
+        "IAN CAMPBELL",
+        "Jul30,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul30,26.pdf",
+      "sourceDetail": "第 4 页 · 行 12",
+      "sourceNotes": "TO BE DONE IN NATURAL STAIN",
+      "warnings": []
+    },
+    {
+      "values": [
+        "366829",
+        "DALTON DIN CHR",
+        "NAVY",
+        "PEWTER",
+        "14",
+        "TOM STEFULJ",
+        "Jul30,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul30,26.pdf",
+      "sourceDetail": "第 8 页 · 行 12",
+      "sourceNotes": "leg wood -- pewter",
+      "warnings": []
+    },
+    {
+      "values": [
+        "280800",
+        "CIRCA BAR STOOL",
+        "BLACK",
+        "CHARCOAL",
+        "3",
+        "SCARLET MAHINAY",
+        "Jul30,26",
+        "",
+        "ORIGINAL"
+      ],
+      "source": "Jul30,26.pdf",
+      "sourceDetail": "第 11 页 · 行 11",
+      "sourceNotes": "BLACK LEATHER AND STAIN IN CHARCOAL",
+      "warnings": []
+    },
+    {
+      "values": [
+        "279194",
+        "DOMUS DIN CHR",
+        "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "WHITE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 1.00 OK",
+        "4",
+        "BRENDA WILLIAMS",
+        "May31,26",
+        "",
+        "CHANGE"
+      ],
+      "source": "Jul30,26.pdf",
+      "sourceDetail": "第 12 页 · 行 11",
+      "sourceNotes": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LEATHER | COLOUR IS NAVY AND THE W OOD COLOUR STAIN IS WHITE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX) 1.00 ok",
+      "warnings": []
+    }
+  ],
+  "warning_row_count": 34,
+  "warning_counts": {
+    "客户名待确认": 29,
+    "Stain 待确认": 6
+  },
+  "file_row_counts": {
+    "Jul03,26.pdf": 8,
+    "Jul04,26.pdf": 6,
+    "Jul05,26-1.pdf": 4,
+    "Jul05,26-2.pdf": 8,
+    "Jul06,26-1.pdf": 18,
+    "Jul06,26-2.pdf": 6,
+    "Jul07,26.pdf": 11,
+    "Jul08,26.pdf": 4,
+    "Jul09,26.pdf": 8,
+    "Jul10,26.pdf": 4,
+    "Jul11,26.pdf": 7,
+    "Jul12,26.pdf": 4,
+    "Jul13,26.pdf": 7,
+    "Jul14,26.pdf": 2,
+    "Jul15,26.pdf": 5,
+    "Jul16,26.pdf": 7,
+    "Jul17,26.pdf": 4,
+    "Jul18,26.pdf": 5,
+    "Jul19,26.pdf": 7,
+    "Jul20,26.pdf": 11,
+    "Jul21,26.pdf": 5,
+    "Jul22,26.pdf": 4,
+    "Jul23,26.pdf": 9,
+    "Jul24,26.pdf": 7,
+    "Jul25,26.pdf": 4,
+    "Jul26,26.pdf": 17,
+    "Jul27,26.pdf": 7,
+    "Jul28,26.pdf": 6,
+    "Jul29,26.pdf": 7,
+    "Jul30,26.pdf": 5
+  },
+  "file_warning_counts": {
+    "Jul07,26.pdf": 7,
+    "Jul28,26.pdf": 4,
+    "Jul09,26.pdf": 3,
+    "Jul15,26.pdf": 3,
+    "Jul16,26.pdf": 3,
+    "Jul06,26-1.pdf": 2,
+    "Jul13,26.pdf": 2,
+    "Jul17,26.pdf": 2,
+    "Jul22,26.pdf": 2,
+    "Jul03,26.pdf": 1,
+    "Jul08,26.pdf": 1,
+    "Jul11,26.pdf": 1,
+    "Jul14,26.pdf": 1,
+    "Jul19,26.pdf": 1,
+    "Jul26,26.pdf": 1,
+    "Jul29,26.pdf": 1
+  },
+  "warning_rows_by_file": {
+    "Jul03,26.pdf": [
+      {
+        "values": [
+          "277741",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "PEWTER",
+          "8",
+          "?",
+          "Jul03,26",
+          "SILVER",
+          "ORIGINAL"
+        ],
+        "source": "Jul03,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "sourceNotes": "8 x domus dining chairs | STAIN TO BE PEWTERSTAIN TO BE PEWTERS TAIN TO BE PEWTER FABRIC COLOUR BROOKLYN SILVERFABRIC COLOUR BROOKLYN SILVERFABRIC COLOUR BROOKLYN SIL VER",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul06,26-1.pdf": [
+      {
+        "values": [
+          "280273",
+          "CIRCA BAR STOOL",
+          "BLACK",
+          "BLACK XXXXXXXXXXXXXXXXXXXXXXX TO GO WI TH BONADIESI XXXXXXXXXXXXXXXXXXXXXXXXX",
+          "8",
+          "?",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "sourceNotes": "xxxxxxxxxxxxxxxxxxxxxx stain in black xxxxxxxxxxxxxxxxxxxxxxx to go wi th BONADIESI XXXXXXXXXXXXXXXXXXXXXXXXX",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "141976",
+          "CIRCA DIN CHR",
+          "CHOCOLATE",
+          "CHARCOAL 7% FLOORSTOCK",
+          "5",
+          "?",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 20 页 · 行 11",
+        "sourceNotes": "Leg stain : charcoal 7% floorstock discount",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul07,26.pdf": [
+      {
+        "values": [
+          "278460",
+          "AMADI DIN CHR",
+          "MUSHROOM",
+          "BUFF AS PER COLLATED ORDER INV 159542",
+          "4",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "sourceNotes": "CREATIVE WOODEN STAIN BUFF AS PER COLLATED ORDER INV 159542",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "OF : NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "TERRACOTTA",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 12",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN ) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "BALMAIN DIN CHR",
+          "MUSHROOM",
+          "OF : NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 13",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN ) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "FABRIC: BROOKLYN SILVER",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 14",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC: BROOKLYN SILVER ) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "DALTON DIN CHR",
+          "NO COVER",
+          "FABRIC: BINGLE",
+          "1",
+          "?",
+          "Jul07,26",
+          "BINGLE",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 15",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC: BINGLE",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "FABRIC : BINGLE GULL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 10 页 · 行 16",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC : BINGLE GULL ) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "ZOLA DIN CHR",
+          "NO COVER",
+          "FABRIC : BINGLE PEARL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 10 页 · 行 17",
+        "sourceNotes": "COLOUR OF TIMBER : NATURAL STAIN FABRIC : BINGLE PEARL ) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul08,26.pdf": [
+      {
+        "values": [
+          "421135",
+          "BOLTON DIN CHR",
+          "CWI EBONY",
+          "CWI EBONY",
+          "6",
+          "?",
+          "Jul08,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul08,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCKPLEASE SEND URGENTLY",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul09,26.pdf": [
+      {
+        "values": [
+          "321754",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "CAMEO",
+          "6",
+          "?",
+          "Jul09,26",
+          "POOL",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "sourceNotes": "CAMEO PYS STAIN",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "340973",
+          "DALTON DIN CHR",
+          "NO COVER",
+          "ALMOND",
+          "8",
+          "?",
+          "Jul09,26",
+          "ZEPEL AKOYA",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "sourceNotes": "ATTN GABI: Re-order from PO 340969 that mysteriously got cancelled. CU STOM FABRIC: ZEPEL AKOYA FABRIC in CEMENT | Timber: Almond",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "365788",
+          "AMADI DIN CHR",
+          "WHITE",
+          "CREATIVE WOODEN IDEAS HAZE FOR",
+          "8",
+          "?",
+          "Jul09,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "sourceNotes": "CREATIVE WOODEN IDEAS HAZE COLOUR FOR STAIN",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul11,26.pdf": [
+      {
+        "values": [
+          "421301",
+          "BOLTON DIN CHR",
+          "OLIVE GR EEN",
+          "CWI EBONY",
+          "6",
+          "?",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCK.PLEASE REFER TO PREVIOUS PO #421135.ORDER ED CHAIRS ON WRONG CODE.LEGS - STAIN MATCH CWI EBONYLEATHER - OLIVE GR EEN",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul13,26.pdf": [
+      {
+        "values": [
+          "461779",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "CREATIVE WOODEN IDEAS: MOCHA FLOORSTOCK",
+          "8",
+          "?",
+          "Jul13,26",
+          "SPROUT",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "sourceNotes": "STAIN- CREATIVE WOODEN IDEAS: MOCHA FLOORSTOCK DISCOUNT AS PER KATIE G.",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "421301",
+          "BOLTON DIN CHR",
+          "OLIVE GR EEN",
+          "CWI EBONY",
+          "6",
+          "?",
+          "Jul11,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "sourceNotes": "LEGS - STAIN MATCH CWI EBONY LEATHER - OLIVE GREEN 10% DISCOUNT FOR FLOOR STOCK.PLEASE REFER TO PREVIOUS PO #421135.ORDER ED CHAIRS ON WRONG CODE.LEGS - STAIN MATCH CWI EBONYLEATHER - OLIVE GR EEN",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul14,26.pdf": [
+      {
+        "values": [
+          "321990",
+          "ZOLA DIN CHR",
+          "CHOCOLATE",
+          "AGED RUSTABAN",
+          "6",
+          "?",
+          "Jul14,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul14,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "sourceNotes": "nature wood stain aged rustaban",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul15,26.pdf": [
+      {
+        "values": [
+          "215424",
+          "ZOLA DIN CHR",
+          "WHITE",
+          "DUNE",
+          "6",
+          "?",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 1 页 · 行 12",
+        "sourceNotes": "dune stain) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "167298",
+          "BOLTON BAR STOOL",
+          "POWDER BLU",
+          "",
+          "2",
+          "DAVID SPEET",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "sourceNotes": "",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "167298",
+          "DOMUS BAR STOOL",
+          "BLACK",
+          "",
+          "1",
+          "RACHEL KASANGULA",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 7 页 · 行 12",
+        "sourceNotes": "customer accepts floor stock",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul16,26.pdf": [
+      {
+        "values": [
+          "226727",
+          "CLUB DIN CHR",
+          "MUSHROOM",
+          "SMOKE",
+          "6",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "sourceNotes": "Creative Wooden Ideas Stain - Smoke",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "278178",
+          "CIRCA BAR STOOL",
+          "CHOCO",
+          "LEATHER CHOCOLATE- BLACK",
+          "1",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 8 页 · 行 12",
+        "sourceNotes": "LEATHER CHOCOLATE- BLACK LEGS 10% OFF FLOORSTOCK) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "278178",
+          "DOMUS BAR STOOL",
+          "OLIVE GREEN",
+          "BLACK",
+          "1",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 8 页 · 行 13",
+        "sourceNotes": "BLACK LEGS 10% OFF FLOORSTOCK) 1.00",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul17,26.pdf": [
+      {
+        "values": [
+          "207273",
+          "BOLTON DIN CHR",
+          "NO COVER",
+          "",
+          "0",
+          "SIMONE PARKER",
+          "Jul29,20",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul17,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "sourceNotes": "",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "255972",
+          "DOMUS DIN CHR",
+          "WHITE",
+          "",
+          "0",
+          "EFFIE FOX",
+          "Jul01,24",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul17,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "sourceNotes": "",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul19,26.pdf": [
+      {
+        "values": [
+          "515877",
+          "CIRCA BAR STOOL",
+          "SADDLE BROWN",
+          "",
+          "3",
+          "TED BRZOZOWSKI",
+          "Jul19,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul19,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "sourceNotes": "SADDLE BROWN LEATHER",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul22,26.pdf": [
+      {
+        "values": [
+          "288253",
+          "ASHFORD DIN CHR",
+          "LATTE",
+          "CHESTNUT 1.00 FLOORSTOCKNO CHARGECT AND LTAS PERKATIE",
+          "8",
+          "?",
+          "Jul22,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul22,26.pdf",
+        "sourceDetail": "第 2 页 · 行 16",
+        "sourceNotes": "stain to be chestnut ) 1.00 floorstockno chargeCT and LTas perKatie please send new timbersample",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "288253",
+          "BOLTON DIN CHR",
+          "MUSHROOM",
+          "PEARL FLOORSTOCKNO CHARGECT AND LTAS PERKATIE",
+          "6",
+          "?",
+          "Jul22,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul22,26.pdf",
+        "sourceDetail": "第 3 页 · 行 20",
+        "sourceNotes": "stain to be pearl floorstockno chargeCT and LTas perKatie please send new timbersample",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul26,26.pdf": [
+      {
+        "values": [
+          "288297",
+          "CHLOE DIN CHR",
+          "AND BLACK",
+          "NATURAL",
+          "8",
+          "?",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 16 页 · 行 11",
+        "sourceNotes": "NATURAL STAIN AND BLACK LEATHER SEAT. PLEASE SEND ALL PRODUCTS TOGETHE R AS PER KATIE G. SPECIAL ORDER CHAIRS",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul28,26.pdf": [
+      {
+        "values": [
+          "152243",
+          "ZOLA DIN CHR",
+          "LATTE",
+          "",
+          "6",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "sourceNotes": "floorstock order",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "516297",
+          "DOMUS DIN CHR",
+          "GREY",
+          "CWI MIST STAIN TASI OAK STANS CWI MST",
+          "8",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "sourceNotes": "STAIN CWI MIST STAIN TASI OAK STANS CWI MST",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "516295",
+          "ASHFORD DIN CHR",
+          "NO COVER",
+          "CWI HAZE",
+          "5",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "sourceNotes": "STAIN TO BE CWI HAZE",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul29,26.pdf": [
+      {
+        "values": [
+          "152243",
+          "ZOLA DIN CHR",
+          "LATTE",
+          "1.00 FLOORSTOCK ORDER",
+          "6",
+          "?",
+          "Jul28,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "sourceNotes": "NATURAL TIMBER STAIN -------------) 1.00 floorstock order",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ]
+  },
+  "cancellation_count": 2,
+  "cancellations": [
+    "订单 167514Jul03,26.pdf · 第 6 页",
+    "订单 167298Jul23,26.pdf · 第 11 页"
+  ],
+  "global_error": [],
+  "console_errors": []
+}

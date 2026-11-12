@@ -1,0 +1,2440 @@
+{
+  "pdf_count": 30,
+  "summary_cards": [
+    {
+      "label": "PDF 文件",
+      "value": "30",
+      "detail": "312 页"
+    },
+    {
+      "label": "主表产品",
+      "value": "207",
+      "detail": "每个产品一行"
+    },
+    {
+      "label": "待确认",
+      "value": "169",
+      "detail": "导出前建议检查"
+    },
+    {
+      "label": "取消页面",
+      "value": "2",
+      "detail": "CHANGE 且 QTY = 0"
+    }
+  ],
+  "row_count": 207,
+  "warning_row_count": 124,
+  "warning_counts": {
+    "客户名待确认": 29,
+    "Stain 待确认": 96,
+    "Cover 待确认": 24,
+    "产品名称待确认": 20
+  },
+  "file_row_counts": {
+    "Jul03,26.pdf": 8,
+    "Jul04,26.pdf": 6,
+    "Jul05,26-1.pdf": 4,
+    "Jul05,26-2.pdf": 8,
+    "Jul06,26-1.pdf": 18,
+    "Jul06,26-2.pdf": 6,
+    "Jul07,26.pdf": 11,
+    "Jul08,26.pdf": 4,
+    "Jul09,26.pdf": 8,
+    "Jul10,26.pdf": 4,
+    "Jul11,26.pdf": 7,
+    "Jul12,26.pdf": 4,
+    "Jul13,26.pdf": 7,
+    "Jul14,26.pdf": 2,
+    "Jul15,26.pdf": 5,
+    "Jul16,26.pdf": 7,
+    "Jul17,26.pdf": 4,
+    "Jul18,26.pdf": 5,
+    "Jul19,26.pdf": 7,
+    "Jul20,26.pdf": 11,
+    "Jul21,26.pdf": 5,
+    "Jul22,26.pdf": 4,
+    "Jul23,26.pdf": 9,
+    "Jul24,26.pdf": 7,
+    "Jul25,26.pdf": 4,
+    "Jul26,26.pdf": 17,
+    "Jul27,26.pdf": 7,
+    "Jul28,26.pdf": 6,
+    "Jul29,26.pdf": 7,
+    "Jul30,26.pdf": 5
+  },
+  "file_warning_counts": {
+    "Jul06,26-1.pdf": 14,
+    "Jul26,26.pdf": 12,
+    "Jul16,26.pdf": 11,
+    "Jul07,26.pdf": 10,
+    "Jul09,26.pdf": 10,
+    "Jul13,26.pdf": 9,
+    "Jul28,26.pdf": 9,
+    "Jul15,26.pdf": 8,
+    "Jul11,26.pdf": 7,
+    "Jul20,26.pdf": 7,
+    "Jul24,26.pdf": 7,
+    "Jul29,26.pdf": 7,
+    "Jul05,26-2.pdf": 6,
+    "Jul06,26-2.pdf": 6,
+    "Jul23,26.pdf": 6,
+    "Jul27,26.pdf": 6,
+    "Jul08,26.pdf": 4,
+    "Jul14,26.pdf": 4,
+    "Jul19,26.pdf": 4,
+    "Jul22,26.pdf": 4,
+    "Jul05,26-1.pdf": 3,
+    "Jul12,26.pdf": 3,
+    "Jul25,26.pdf": 3,
+    "Jul10,26.pdf": 2,
+    "Jul17,26.pdf": 2,
+    "Jul30,26.pdf": 2,
+    "Jul03,26.pdf": 1,
+    "Jul18,26.pdf": 1,
+    "Jul21,26.pdf": 1
+  },
+  "warning_rows_by_file": {
+    "Jul03,26.pdf": [
+      {
+        "values": [
+          "277741",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "PEWTER",
+          "8",
+          "?",
+          "Jul03,26",
+          "SILVR",
+          "ORIGINAL"
+        ],
+        "source": "Jul03,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul05,26-1.pdf": [
+      {
+        "values": [
+          "461525",
+          "CHLOE DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "BRUCE MORTON",
+          "Jul05,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-1.pdf",
+        "sourceDetail": "第 3 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "224948",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "8",
+          "RANJITH WEERASINGHE",
+          "Jul05,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-1.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul05,26-2.pdf": [
+      {
+        "values": [
+          "321576",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "4",
+          "BARRY WYSE",
+          "Jul05,26",
+          "POOL",
+          "CHANGE"
+        ],
+        "source": "Jul05,26-2.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "177520",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "SHARON ROSS",
+          "Jul05,26",
+          "SPROUT",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-2.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "267878",
+          "BOLTON DIN CHR",
+          "BLACK",
+          "",
+          "2",
+          "DIANE KENNEALY",
+          "Jul05,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-2.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "302521",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "6",
+          "NEALE FRAZER",
+          "Jul05,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-2.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "438966",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "",
+          "4",
+          "JOHN GREIG",
+          "Jul05,26",
+          "TERRACOTTA",
+          "ORIGINAL"
+        ],
+        "source": "Jul05,26-2.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul06,26-1.pdf": [
+      {
+        "values": [
+          "164765",
+          "CIRCA BAR STOOL",
+          "OLIVE GREEN",
+          "",
+          "2",
+          "STEPHEN MANNING",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "280273",
+          "CIRCA BAR STOOL",
+          "BLACK",
+          "",
+          "8",
+          "?",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "234057",
+          "BOLTON DIN CHR",
+          "LATTE",
+          "",
+          "4",
+          "JACKIE KALMAR",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "167936",
+          "DALTON DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "HANNAH & JAMIE JEWELL",
+          "Jul06,26",
+          "YELLOW",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "177160",
+          "",
+          "MUSHROOM",
+          "NATURAL",
+          "3",
+          "ANGELO FALCONE",
+          "Jul06,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      },
+      {
+        "values": [
+          "177371",
+          "BOLTON DIN CHR",
+          "BLACK",
+          "",
+          "4",
+          "NARELLE TRAFFORD",
+          "Jun30,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 14 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "177371",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "PETER BERGOC",
+          "Jun30,26",
+          "SPROUT",
+          "CHANGE"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 14 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "278409",
+          "CIRCA BAR STOOL",
+          "MUSHROOM",
+          "",
+          "4",
+          "JHANELLE MEALING",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 15 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "219778",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "10",
+          "DONNA GOLOTTA",
+          "Jul06,26",
+          "MIST",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 16 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "219775",
+          "CIRCA BAR STOOL",
+          "WHITE",
+          "",
+          "2",
+          "NATRAJ CHENTALAPATI",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 17 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "199489",
+          "",
+          "MUSHROOM",
+          "",
+          "2",
+          "KYM CAMILLERI",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 19 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "141976",
+          "CIRCA DIN CHR",
+          "CHOCOLATE",
+          "CHARCOAL",
+          "5",
+          "?",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-1.pdf",
+        "sourceDetail": "第 20 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul06,26-2.pdf": [
+      {
+        "values": [
+          "348830",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "KELLY CARTER",
+          "Jul06,26",
+          "STONE",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-2.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "348828",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "ANGELO TARANTO",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-2.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "348828",
+          "",
+          "NO COVER",
+          "",
+          "2",
+          "ANGELO TARANTO",
+          "Jul06,26",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-2.pdf",
+        "sourceDetail": "第 2 页 · 行 12",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "348827",
+          "CLUB DIN CHR",
+          "NAVY",
+          "",
+          "8",
+          "STEVEN MOLONEY",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-2.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "348827",
+          "CIRCA BAR STOOL",
+          "NAVY",
+          "",
+          "3",
+          "STEVEN MOLONEY",
+          "Jul06,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul06,26-2.pdf",
+        "sourceDetail": "第 3 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul07,26.pdf": [
+      {
+        "values": [
+          "177585",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "JOANNE SELLMAN",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "278460",
+          "AMADI DIN CHR",
+          "MUSHROOM",
+          "",
+          "4",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "280295",
+          "CIRCA BAR STOOL",
+          "BEIGE",
+          "",
+          "3",
+          "KRISHNA KUMAR",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "TERRACOTTA",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 12",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "BALMAIN DIN CHR",
+          "MUSHROOM",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 13",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 14",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "DALTON DIN CHR",
+          "NO COVER",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 9 页 · 行 15",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 10 页 · 行 16",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "410859",
+          "ZOLA DIN CHR",
+          "NO COVER",
+          "NATURAL",
+          "1",
+          "?",
+          "Jul07,26",
+          "W",
+          "ORIGINAL"
+        ],
+        "source": "Jul07,26.pdf",
+        "sourceDetail": "第 10 页 · 行 17",
+        "warnings": [
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul08,26.pdf": [
+      {
+        "values": [
+          "379069",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "ADRIAN RUSSELL",
+          "Jul08,26",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul08,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "40011",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "10",
+          "MICK BARKER",
+          "Jul08,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul08,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "421135",
+          "BOLTON DIN CHR",
+          "SADDLE BROWN",
+          "",
+          "6",
+          "?",
+          "Jul08,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul08,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul09,26.pdf": [
+      {
+        "values": [
+          "288101",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "6",
+          "HANS SWAN",
+          "Jul09,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 2 页 · 行 12",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "321754",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "?",
+          "Jul09,26",
+          "POOL",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "292432",
+          "",
+          "OLIVE GREEN",
+          "",
+          "2",
+          "LORRAINE DUFFIN",
+          "Jul09,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 5 页 · 行 14",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "340973",
+          "DALTON DIN CHR",
+          "NO COVER",
+          "ALMOND",
+          "8",
+          "?",
+          "Jul09,26",
+          "YELLOW",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "365788",
+          "AMADI DIN CHR",
+          "WHITE",
+          "",
+          "8",
+          "?",
+          "Jul09,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "514231",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "ROSHNI SHAH",
+          "Jul09,26",
+          "GREEN",
+          "ORIGINAL"
+        ],
+        "source": "Jul09,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul10,26.pdf": [
+      {
+        "values": [
+          "277997",
+          "DALTON DIN CHR",
+          "CHOCOLATE",
+          "",
+          "4",
+          "DARREN PAZIOTIS",
+          "Jul10,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul10,26.pdf",
+        "sourceDetail": "第 5 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "215810",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "4",
+          "HELEN & MAXMCCULLY",
+          "Jul10,26",
+          "CUSTOM",
+          "ORIGINAL"
+        ],
+        "source": "Jul10,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul11,26.pdf": [
+      {
+        "values": [
+          "438901",
+          "CIRCA DIN CHR",
+          "BLACK",
+          "",
+          "10",
+          "LEE SWIDERSKI",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "12576",
+          "AMADI DIN CHR",
+          "MUSHROOM",
+          "",
+          "8",
+          "HARMAN BRAR",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "106832",
+          "ASHFORD DIN CHR",
+          "",
+          "NUTMEG",
+          "2",
+          "SARINA COOK",
+          "Jul06,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Cover 待确认"
+        ]
+      },
+      {
+        "values": [
+          "288108",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "10",
+          "AMI IACUONE",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "421301",
+          "BOLTON DIN CHR",
+          "OLIVE GREEN",
+          "",
+          "6",
+          "?",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul11,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul12,26.pdf": [
+      {
+        "values": [
+          "137657",
+          "CIRCA DIN CHR",
+          "GREY",
+          "",
+          "8",
+          "HUONG NGO",
+          "Jul12,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul12,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "167195",
+          "",
+          "CHOCO",
+          "NATURAL",
+          "4",
+          "ANNE MICALLEF",
+          "Jul12,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul12,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      },
+      {
+        "values": [
+          "321851",
+          "",
+          "OLIVE GREEN",
+          "PEARL",
+          "2",
+          "DANIEL MILLSON",
+          "Jul11,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul12,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      }
+    ],
+    "Jul13,26.pdf": [
+      {
+        "values": [
+          "461779",
+          "AMADI DIN CHR",
+          "NO COVER",
+          "MOCHA",
+          "8",
+          "?",
+          "Jul13,26",
+          "SPROUT",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "163975",
+          "CIRCA DIN CHR",
+          "SADDLE BROWN",
+          "",
+          "2",
+          "KERRY HILL",
+          "Jul13,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "40080",
+          "DOMUS DIN CHR",
+          "LATTE",
+          "",
+          "10",
+          "MICK BARKER",
+          "Jul13,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "421301",
+          "BOLTON DIN CHR",
+          "OLIVE GREEN",
+          "",
+          "6",
+          "?",
+          "Jul11,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "40011",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "0",
+          "MICK BARKER",
+          "Jul08,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "349112",
+          "",
+          "",
+          "",
+          "1",
+          "ANNETTE PAGLIANITI",
+          "Jul13,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul13,26.pdf",
+        "sourceDetail": "第 11 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul14,26.pdf": [
+      {
+        "values": [
+          "321990",
+          "ZOLA DIN CHR",
+          "",
+          "",
+          "6",
+          "?",
+          "Jul14,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul14,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "189872",
+          "ZOLA DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "ROYCE BASSETT",
+          "Jul14,26",
+          "JAVA",
+          "ORIGINAL"
+        ],
+        "source": "Jul14,26.pdf",
+        "sourceDetail": "第 7 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul15,26.pdf": [
+      {
+        "values": [
+          "215424",
+          "ZOLA DIN CHR",
+          "",
+          "",
+          "6",
+          "?",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 1 页 · 行 12",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "167298",
+          "",
+          "POWDER BLU",
+          "",
+          "2",
+          "DAVID SPEET",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "167298",
+          "",
+          "",
+          "",
+          "1",
+          "RACHEL KASANGULA",
+          "Jul15,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul15,26.pdf",
+        "sourceDetail": "第 7 页 · 行 12",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul16,26.pdf": [
+      {
+        "values": [
+          "110714",
+          "CIRCA DIN CHR",
+          "CHOCOLATE",
+          "",
+          "8",
+          "GRIFFITH CUSTOM",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "110717",
+          "AMADI DIN CHR",
+          "MUSHROOM",
+          "",
+          "11",
+          "ANNA MALLAMACE",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "110717",
+          "AMADI DIN CHR",
+          "MUSHROOM",
+          "",
+          "1",
+          "ANNA MALLAMACE",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 4 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "226727",
+          "CLUB DIN CHR",
+          "MUSHROOM",
+          "SMOKE",
+          "6",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "278178",
+          "CIRCA BAR STOOL",
+          "CHOCO",
+          "",
+          "1",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 8 页 · 行 12",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "278178",
+          "",
+          "",
+          "",
+          "1",
+          "?",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 8 页 · 行 13",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认",
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "199806",
+          "CIRCA BAR STOOL",
+          "MUSHROOM",
+          "",
+          "3",
+          "WARREN DEETHTHERESA",
+          "Jul16,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul16,26.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul17,26.pdf": [
+      {
+        "values": [
+          "207273",
+          "BOLTON DIN CHR",
+          "NO COVER",
+          "",
+          "0",
+          "SIMONE PARKER",
+          "Jul29,20",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul17,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "255972",
+          "DOMUS DIN CHR",
+          "WHITE",
+          "",
+          "0",
+          "EFFIE FOX",
+          "Jul01,24",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul17,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul18,26.pdf": [
+      {
+        "values": [
+          "258156",
+          "",
+          "NO COVER",
+          "NATURAL",
+          "4",
+          "MARY RANDO",
+          "Jul18,26",
+          "ORANGE",
+          "ORIGINAL"
+        ],
+        "source": "Jul18,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      }
+    ],
+    "Jul19,26.pdf": [
+      {
+        "values": [
+          "12734",
+          "CHLOE DIN CHR",
+          "",
+          "MOCHA",
+          "4",
+          "PATRICK FLINAGAN",
+          "Jul19,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul19,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Cover 待确认"
+        ]
+      },
+      {
+        "values": [
+          "267517",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "6",
+          "CONRAD CONSTRUCTION CO",
+          "Jul19,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul19,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "515877",
+          "CIRCA BAR STOOL",
+          "SADDLE BROWN",
+          "",
+          "3",
+          "TED BRZOZOWSKI",
+          "Jul19,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul19,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul20,26.pdf": [
+      {
+        "values": [
+          "462068",
+          "HUDSON DIN CHR",
+          "GREY",
+          "",
+          "14",
+          "JODIE KUIPERS",
+          "Jul20,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul20,26.pdf",
+        "sourceDetail": "第 1 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "151972",
+          "CHLOE DIN CHR",
+          "NO COVER",
+          "",
+          "4",
+          "RICHARD BEILHARZ",
+          "Jul20,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul20,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "439505",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "8",
+          "ANDREW REALMUTO",
+          "Jul20,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul20,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "316878",
+          "",
+          "",
+          "",
+          "2",
+          "LYNN FORREST",
+          "Jul20,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul20,26.pdf",
+        "sourceDetail": "第 15 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul21,26.pdf": [
+      {
+        "values": [
+          "292766",
+          "",
+          "LATTE",
+          "NATURAL",
+          "2",
+          "REGINA HENRY",
+          "Jul21,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul21,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      }
+    ],
+    "Jul22,26.pdf": [
+      {
+        "values": [
+          "288253",
+          "ASHFORD DIN CHR",
+          "",
+          "CHESTNUT",
+          "8",
+          "?",
+          "Jul22,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul22,26.pdf",
+        "sourceDetail": "第 2 页 · 行 16",
+        "warnings": [
+          "Cover 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "288253",
+          "BOLTON DIN CHR",
+          "MUSHROOM",
+          "PEARL",
+          "6",
+          "?",
+          "Jul22,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul22,26.pdf",
+        "sourceDetail": "第 3 页 · 行 20",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "462112",
+          "BALMAIN DIN CHR",
+          "MUSHROOM",
+          "",
+          "5",
+          "SAMANTHA OGNENOVSKA",
+          "Jul22,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul22,26.pdf",
+        "sourceDetail": "第 7 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul23,26.pdf": [
+      {
+        "values": [
+          "234422",
+          "CLUB DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "CAITLIN ELLIS",
+          "Jul23,26",
+          "GULL",
+          "ORIGINAL"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "137884",
+          "HUDSON DIN CHR",
+          "CHOCOLATE",
+          "",
+          "8",
+          "SON LAM",
+          "Jul23,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "137884",
+          "CIRCA DIN CHR",
+          "BEIGE",
+          "",
+          "6",
+          "JASSYWARE PTY LTD",
+          "Jul23,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 4 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "84939",
+          "CIRCA DIN CHR",
+          "WHITE",
+          "",
+          "4",
+          "MICHELLE BISSAKER",
+          "Jul23,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "167298",
+          "",
+          "POWDER BLU",
+          "NATURAL",
+          "2",
+          "DAVID SPEET",
+          "Jul15,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 11 页 · 行 11",
+        "warnings": [
+          "产品名称待确认"
+        ]
+      },
+      {
+        "values": [
+          "278365",
+          "BOLTON DIN CHR",
+          "BLACK",
+          "",
+          "6",
+          "JAYE MOREY",
+          "Jul23,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul23,26.pdf",
+        "sourceDetail": "第 14 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul24,26.pdf": [
+      {
+        "values": [
+          "245405",
+          "CIRCA BAR STOOL",
+          "POWDER BLU",
+          "",
+          "2",
+          "SCOTT ABRAHAM",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "245400",
+          "BOLTON DIN CHR",
+          "POWDER BLUE",
+          "",
+          "2",
+          "SCOTT ABRAHAM",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "171312",
+          "CIRCA BAR STOOL",
+          "NAVY",
+          "",
+          "4",
+          "MARYANNE BENNETT",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "171311",
+          "CIRCA DIN CHR",
+          "NAVY",
+          "",
+          "8",
+          "MARYANNE BENNETT",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "292924",
+          "BOLTON DIN CHR",
+          "OLIVE GREEN",
+          "",
+          "4",
+          "PELICITY NAIR",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "292924",
+          "",
+          "OLIVE GREEN",
+          "",
+          "2",
+          "PELICITY NAIR",
+          "Jul24,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul24,26.pdf",
+        "sourceDetail": "第 9 页 · 行 12",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul25,26.pdf": [
+      {
+        "values": [
+          "276621",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "1",
+          "CLINT TRIAT",
+          "Jul25,26",
+          "MIST",
+          "ORIGINAL"
+        ],
+        "source": "Jul25,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "45538",
+          "",
+          "",
+          "NUTMEG",
+          "3",
+          "SANDY RODD",
+          "Jul25,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul25,26.pdf",
+        "sourceDetail": "第 3 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认"
+        ]
+      }
+    ],
+    "Jul26,26.pdf": [
+      {
+        "values": [
+          "211814",
+          "",
+          "",
+          "DIRTY OAK",
+          "3",
+          "JOSEPH MASTROPASQUA",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认"
+        ]
+      },
+      {
+        "values": [
+          "514993",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "1",
+          "MR VIZAS",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "134380",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "DANIEL KELLY",
+          "Jul26,26",
+          "JAVA",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 4 页 · 行 13",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "445534",
+          "BALMAIN DIN CHR",
+          "BLACK",
+          "",
+          "6",
+          "KARIN FOGARTY",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "152156",
+          "CLUB DIN CHR",
+          "BLACK",
+          "",
+          "6",
+          "FILIA KASIOTIS",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "216093",
+          "AMADI DIN CHR",
+          "WHITE",
+          "",
+          "8",
+          "DEBBIE MOOREREAL",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 13 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "226983",
+          "",
+          "BLACK",
+          "",
+          "2",
+          "COLIN BROOKS",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 14 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "288297",
+          "CHLOE DIN CHR",
+          "",
+          "NATURAL",
+          "8",
+          "?",
+          "Jul26,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul26,26.pdf",
+        "sourceDetail": "第 16 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "客户名待确认"
+        ]
+      }
+    ],
+    "Jul27,26.pdf": [
+      {
+        "values": [
+          "422026",
+          "DOMUS DIN CHR",
+          "LATTE",
+          "",
+          "8",
+          "ANDREW POTTER",
+          "Jul27,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul27,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "285705",
+          "ASHFORD DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "JO LEDLIE",
+          "Jul27,26",
+          "YELLOW",
+          "ORIGINAL"
+        ],
+        "source": "Jul27,26.pdf",
+        "sourceDetail": "第 8 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "171342",
+          "CIRCA DIN CHR",
+          "BLACK",
+          "",
+          "6",
+          "JACQI JOHNSON",
+          "Jul27,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul27,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "278450",
+          "ZOLA DIN CHR",
+          "NO COVER",
+          "",
+          "8",
+          "JONATHAN STILL",
+          "Jul27,26",
+          "SPROUT",
+          "ORIGINAL"
+        ],
+        "source": "Jul27,26.pdf",
+        "sourceDetail": "第 10 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "284279",
+          "ASHFORD DIN CHR",
+          "",
+          "",
+          "6",
+          "RAYMOND BARBER",
+          "Jul27,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul27,26.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul28,26.pdf": [
+      {
+        "values": [
+          "152243",
+          "ZOLA DIN CHR",
+          "",
+          "",
+          "6",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "355611",
+          "",
+          "",
+          "CHARCOAL",
+          "3",
+          "BASSEM WAHHAB",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 2 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Cover 待确认"
+        ]
+      },
+      {
+        "values": [
+          "516297",
+          "DOMUS DIN CHR",
+          "GREY",
+          "CWI MIST",
+          "8",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 5 页 · 行 11",
+        "warnings": [
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "516295",
+          "ASHFORD DIN CHR",
+          "NO COVER",
+          "",
+          "5",
+          "?",
+          "Jul28,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 6 页 · 行 11",
+        "warnings": [
+          "Stain 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "167679",
+          "DOMUS DIN CHR",
+          "NO COVER",
+          "",
+          "4",
+          "ELAINE HESELTINE",
+          "Jul28,26",
+          "WALNT",
+          "ORIGINAL"
+        ],
+        "source": "Jul28,26.pdf",
+        "sourceDetail": "第 7 页 · 行 12",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul29,26.pdf": [
+      {
+        "values": [
+          "445654",
+          "",
+          "NO COVER",
+          "",
+          "2",
+          "RENZO SGARBOSSA",
+          "Jul29,26",
+          "ECRU",
+          "ORIGINAL"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 4 页 · 行 11",
+        "warnings": [
+          "产品名称待确认",
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "436249",
+          "ASHFORD DIN CHR",
+          "",
+          "SAND DUNE",
+          "10",
+          "CHRISTINA RUGGIERO",
+          "Jun30,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 5 页 · 行 12",
+        "warnings": [
+          "Cover 待确认"
+        ]
+      },
+      {
+        "values": [
+          "234598",
+          "DALTON DIN CHR",
+          "SADDLE BROWN",
+          "",
+          "4",
+          "LOREN BROWN",
+          "Jul29,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 9 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "152243",
+          "ZOLA DIN CHR",
+          "",
+          "NATURAL",
+          "6",
+          "?",
+          "Jul28,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "warnings": [
+          "Cover 待确认",
+          "客户名待确认"
+        ]
+      },
+      {
+        "values": [
+          "347791",
+          "CIRCA DIN CHR",
+          "NO COVER",
+          "",
+          "6",
+          "ANGELA MACLEAN",
+          "Jun15,26",
+          "PEARL",
+          "CHANGE"
+        ],
+        "source": "Jul29,26.pdf",
+        "sourceDetail": "第 15 页 · 行 14",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ],
+    "Jul30,26.pdf": [
+      {
+        "values": [
+          "204511",
+          "CIRCA DIN CHR",
+          "SADDLE BROWN",
+          "",
+          "6",
+          "VICKI ANDERSON",
+          "Jul30,26",
+          "",
+          "ORIGINAL"
+        ],
+        "source": "Jul30,26.pdf",
+        "sourceDetail": "第 1 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      },
+      {
+        "values": [
+          "279194",
+          "DOMUS DIN CHR",
+          "NAVY",
+          "",
+          "4",
+          "BRENDA WILLIAMS",
+          "May31,26",
+          "",
+          "CHANGE"
+        ],
+        "source": "Jul30,26.pdf",
+        "sourceDetail": "第 12 页 · 行 11",
+        "warnings": [
+          "Stain 待确认"
+        ]
+      }
+    ]
+  },
+  "cancellation_count": 2,
+  "cancellations": [
+    "订单 167514Jul03,26.pdf · 第 6 页",
+    "订单 167298Jul23,26.pdf · 第 11 页"
+  ],
+  "global_error": [],
+  "console_errors": []
+}

@@ -1,0 +1,97 @@
+schema_version: "1.0"
+status: "draft"
+site_id: "nh-order-workbench-local"
+project: "NH订单整理工作台"
+confirmed_by: "项目所有者（用户）"
+confirmed_at: "2026-07-31"
+no_secret_values: true
+
+server:
+  reference: "local-static-only"
+  owner: "项目所有者"
+
+environments:
+  preview:
+    enabled: false
+    public_url: null
+    admin_path: null
+  production:
+    enabled: false
+    public_url: null
+    admin_path: null
+
+repository:
+  repo_url: null
+  approved_branch: null
+  production_branch: "main"
+  commit_sha_required: false
+
+architecture: "static"
+
+toolchain:
+  node: ">=20.9.0"
+  pnpm_major: "10"
+  package_manager: "pnpm@10.17.1"
+  lockfile: "pnpm-lock.yaml"
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  call_carrier: "local"
+  forced_command_reference: null
+  allowed_modes:
+    - "local-static"
+  guide_reference: "README.md"
+  production_approval_required: true
+  authorization_reference: null
+  deploy_owner: null
+  validate_required: true
+  status_required: false
+
+storage:
+  code_reference: "local-delivery-folder"
+  releases_reference: "local-delivery-archive"
+  database_reference: "none"
+  media_reference: "none"
+
+database:
+  type: "other"
+  credential_secret_ref: null
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "项目所有者"
+  developer: "Codex执行线程"
+  server_owner: "不适用"
+
+migration:
+  required: false
+  required_for_localization: false
+  procedure_reference: null
+  production_approval_required: true
+
+backup:
+  procedure_reference: "由用户保留原始PDF与导出Excel"
+  database_and_media_separate: true
+  restore_rehearsal_required: false
+
+release_retention:
+  policy_reference: "保留当前静态交付包"
+  previous_accepted_release_required: false
+
+health_checks:
+  public_page: "index.html 可加载并完成样例解析"
+  application: "浏览器端PDF解析与Excel导出"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "恢复上一份本地静态交付包"
+  explicit_authorization_required: true
